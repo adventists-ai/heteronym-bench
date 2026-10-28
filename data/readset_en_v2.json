@@ -1,0 +1,10620 @@
+{
+"lang": "en",
+"version": "v2",
+"words": {
+"read": {
+"major": "reed",
+"readings": {
+"reed": {
+"arpa": "R IY1 D",
+"ipa": "ɹiːd",
+"resp": "reed",
+"gloss": "present/infinitive/future form of 'to read'"
+},
+"red": {
+"arpa": "R EH1 D",
+"ipa": "ɹɛd",
+"resp": "red",
+"gloss": "past tense or past participle of 'to read'"
+}
+}
+},
+"lead": {
+"major": "leed",
+"readings": {
+"leed": {
+"arpa": "L IY1 D",
+"ipa": "liːd",
+"resp": "leed",
+"gloss": "to guide or be in charge (verb)"
+},
+"led": {
+"arpa": "L EH1 D",
+"ipa": "lɛd",
+"resp": "led",
+"gloss": "the heavy metal lead, or the graphite core of a pencil"
+}
+}
+},
+"live": {
+"major": "liv",
+"readings": {
+"liv": {
+"arpa": "L IH1 V",
+"ipa": "lɪv",
+"resp": "liv",
+"gloss": "verb: to reside or to be alive"
+},
+"lyve": {
+"arpa": "L AY1 V",
+"ipa": "laɪv",
+"resp": "lyve",
+"gloss": "adjective: performed in real time, or carrying electric current"
+}
+}
+},
+"record": {
+"major": "noun",
+"readings": {
+"noun": {
+"arpa": "R EH1 K ER0 D",
+"ipa": "ɹɛkɚd",
+"resp": "reckerd",
+"gloss": "noun: a disc, a best achievement, or a document"
+},
+"verb": {
+"arpa": "R IH0 K AO1 R D",
+"ipa": "ɹɪkɔːɹd",
+"resp": "rikord",
+"gloss": "verb: to capture sound/video or to write down"
+}
+}
+},
+"present": {
+"major": "noun",
+"readings": {
+"noun": {
+"arpa": "P R EH1 Z AH0 N T",
+"ipa": "pɹɛzənt",
+"resp": "prezzent",
+"gloss": "noun/adjective: a gift, or being here"
+},
+"verb": {
+"arpa": "P R IY0 Z EH1 N T",
+"ipa": "pɹɪzɛnt",
+"resp": "prizent",
+"gloss": "verb: to show or give formally"
+}
+}
+},
+"wind": {
+"major": "noun",
+"readings": {
+"noun": {
+"arpa": "W IH1 N D",
+"ipa": "wɪnd",
+"resp": "winned",
+"gloss": "moving air"
+},
+"verb": {
+"arpa": "W AY1 N D",
+"ipa": "waɪnd",
+"resp": "wined",
+"gloss": "to turn, coil or wrap"
+}
+}
+},
+"tear": {
+"major": "teer",
+"readings": {
+"teer": {
+"arpa": "T IH1 R",
+"ipa": "tɪɹ",
+"resp": "teer",
+"gloss": "a drop of liquid from the eye"
+},
+"tare": {
+"arpa": "T EH1 R",
+"ipa": "tɛɹ",
+"resp": "tare",
+"gloss": "to rip, or a rip"
+}
+}
+},
+"bass": {
+"major": "base",
+"readings": {
+"base": {
+"arpa": "B EY1 S",
+"ipa": "beɪs",
+"resp": "base",
+"gloss": "low-pitched sound or the instrument"
+},
+"fish": {
+"arpa": "B AE1 S",
+"ipa": "bæs",
+"resp": "bass",
+"gloss": "a kind of fish"
+}
+}
+},
+"bow": {
+"major": "bau",
+"readings": {
+"bau": {
+"arpa": "B AW1",
+"ipa": "baʊ",
+"resp": "bough",
+"gloss": "to bend forward at the waist, or the front of a ship"
+},
+"bo": {
+"arpa": "B OW1",
+"ipa": "boʊ",
+"resp": "beau",
+"gloss": "a knotted ribbon, or the weapon for shooting arrows"
+}
+}
+},
+"close": {
+"major": "z",
+"readings": {
+"s": {
+"arpa": "K L OW1 S",
+"ipa": "kloʊs",
+"resp": "klohss",
+"gloss": "adjective/adverb: near, or intimate"
+},
+"z": {
+"arpa": "K L OW1 Z",
+"ipa": "kloʊz",
+"resp": "cloze",
+"gloss": "verb: to shut, or to end business"
+}
+}
+},
+"object": {
+"major": "noun",
+"readings": {
+"noun": {
+"arpa": "AA1 B JH EH0 K T",
+"ipa": "ɑːbdʒɛkt",
+"resp": "ob-ject",
+"gloss": "noun: a thing, or a goal"
+},
+"verb": {
+"arpa": "AH0 B JH EH1 K T",
+"ipa": "əbdʒɛkt",
+"resp": "ub-ject",
+"gloss": "verb: to oppose or protest"
+}
+}
+},
+"content": {
+"major": "noun",
+"readings": {
+"noun": {
+"arpa": "K AA1 N T EH0 N T",
+"ipa": "kɑːntɛnt",
+"resp": "con-tent",
+"gloss": "noun: what something contains"
+},
+"adj": {
+"arpa": "K AH0 N T EH1 N T",
+"ipa": "kəntɛnt",
+"resp": "kun-tent",
+"gloss": "adjective: satisfied"
+}
+}
+},
+"desert": {
+"major": "noun",
+"readings": {
+"noun": {
+"arpa": "D EH1 Z ER0 T",
+"ipa": "dɛzɚt",
+"resp": "dezzert",
+"gloss": "noun: a dry, sandy region"
+},
+"verb": {
+"arpa": "D IH0 Z ER1 T",
+"ipa": "dɪzɜːt",
+"resp": "dessert",
+"gloss": "verb: to abandon"
+}
+}
+},
+"minute": {
+"major": "minit",
+"readings": {
+"minit": {
+"arpa": "M IH1 N AH0 T",
+"ipa": "mɪnɪt",
+"resp": "minnit",
+"gloss": "a unit of time / a short moment"
+},
+"mynoot": {
+"arpa": "M AY0 N UW1 T",
+"ipa": "maɪnuːt",
+"resp": "my-newt",
+"gloss": "adjective: extremely small"
+}
+}
+},
+"produce": {
+"major": "verb",
+"readings": {
+"noun": {
+"arpa": "P R OW1 D UW0 S",
+"ipa": "pɹoʊduːs",
+"resp": "proh-dooce",
+"gloss": "noun: fruits and vegetables"
+},
+"verb": {
+"arpa": "P R AH0 D UW1 S",
+"ipa": "pɹəduːs",
+"resp": "pruh-dooce",
+"gloss": "verb: to make or create"
+}
+}
+},
+"row": {
+"major": "roe",
+"readings": {
+"roe": {
+"arpa": "R OW1",
+"ipa": "ɹoʊ",
+"resp": "roe",
+"gloss": "a line of seats/things, or to propel a boat with oars"
+},
+"rau": {
+"arpa": "R AW1",
+"ipa": "ɹaʊ",
+"resp": "rau",
+"gloss": "a noisy quarrel"
+}
+}
+},
+"wound": {
+"major": "woond",
+"readings": {
+"woond": {
+"arpa": "W UW1 N D",
+"ipa": "wuːnd",
+"resp": "woond",
+"gloss": "an injury"
+},
+"wownd": {
+"arpa": "W AW1 N D",
+"ipa": "waʊnd",
+"resp": "wownd",
+"gloss": "past tense of 'wind' (to coil, or to meander)"
+}
+}
+},
+"use": {
+"major": "verb",
+"readings": {
+"noun": {
+"arpa": "Y UW1 S",
+"ipa": "juːs",
+"resp": "yoos",
+"gloss": "noun: purpose or usefulness"
+},
+"verb": {
+"arpa": "Y UW1 Z",
+"ipa": "juːz",
+"resp": "yooz",
+"gloss": "verb: to employ"
+}
+}
+},
+"invalid": {
+"major": "adj",
+"readings": {
+"adj": {
+"arpa": "IH0 N V AE1 L IH0 D",
+"ipa": "ɪnvælɪd",
+"resp": "in-val-id",
+"gloss": "adjective: not valid"
+},
+"noun": {
+"arpa": "IH1 N V AH0 L IH0 D",
+"ipa": "ɪnvəlɪd",
+"resp": "in-va-lid",
+"gloss": "a person disabled by illness (noun or attributive)"
+}
+}
+},
+"refuse": {
+"major": "verb",
+"readings": {
+"verb": {
+"arpa": "R IH0 F Y UW1 Z",
+"ipa": "ɹɪfjuːz",
+"resp": "ree-fyooz",
+"gloss": "verb: to decline"
+},
+"noun": {
+"arpa": "R EH1 F Y UW2 S",
+"ipa": "ɹɛfjuːs",
+"resp": "ref-yoos",
+"gloss": "noun: garbage"
+}
+}
+},
+"dove": {
+"major": "duv",
+"readings": {
+"duv": {
+"arpa": "D AH1 V",
+"ipa": "dʌv",
+"resp": "duv",
+"gloss": "a bird"
+},
+"dohv": {
+"arpa": "D OW1 V",
+"ipa": "doʊv",
+"resp": "dohv",
+"gloss": "past tense of 'dive'"
+}
+}
+},
+"sow": {
+"major": "so",
+"readings": {
+"so": {
+"arpa": "S OW1",
+"ipa": "soʊ",
+"resp": "sew",
+"gloss": "to plant seeds"
+},
+"sau": {
+"arpa": "S AW1",
+"ipa": "saʊ",
+"resp": "sau",
+"gloss": "a female pig"
+}
+}
+},
+"does": {
+"major": "duz",
+"readings": {
+"duz": {
+"arpa": "D AH1 Z",
+"ipa": "dʌz",
+"resp": "duz",
+"gloss": "a form of the verb 'do'"
+},
+"doze": {
+"arpa": "D OW1 Z",
+"ipa": "doʊz",
+"resp": "doze",
+"gloss": "plural of 'doe' (female deer)"
+}
+}
+},
+"excuse": {
+"major": "noun",
+"readings": {
+"noun": {
+"arpa": "IH0 K S K Y UW1 S",
+"ipa": "ɪkskjuːs",
+"resp": "ex-kyoos",
+"gloss": "noun: a reason or justification"
+},
+"verb": {
+"arpa": "IH0 K S K Y UW1 Z",
+"ipa": "ɪkskjuːz",
+"resp": "ex-kyooz",
+"gloss": "verb: to forgive or pardon"
+}
+}
+},
+"house": {
+"major": "noun",
+"readings": {
+"noun": {
+"arpa": "HH AW1 S",
+"ipa": "haʊs",
+"resp": "hauss",
+"gloss": "noun: a building"
+},
+"verb": {
+"arpa": "HH AW1 Z",
+"ipa": "haʊz",
+"resp": "howz",
+"gloss": "verb: to provide space for, accommodate"
+}
+}
+},
+"separate": {
+"major": "adj",
+"readings": {
+"adj": {
+"arpa": "S EH1 P R AH0 T",
+"ipa": "sɛpɹət",
+"resp": "sep-rit",
+"gloss": "adjective: apart or distinct"
+},
+"verb": {
+"arpa": "S EH1 P ER0 EY2 T",
+"ipa": "sɛpɚɹeɪt",
+"resp": "sep-uh-rate",
+"gloss": "verb: to divide or split"
+}
+}
+},
+"estimate": {
+"major": "noun",
+"readings": {
+"noun": {
+"arpa": "EH1 S T AH0 M AH0 T",
+"ipa": "ɛstɪmət",
+"resp": "est-uh-mit",
+"gloss": "noun: an approximate calculation"
+},
+"verb": {
+"arpa": "EH1 S T AH0 M EY2 T",
+"ipa": "ɛstɪmeɪt",
+"resp": "est-uh-mate",
+"gloss": "verb: to calculate approximately"
+}
+}
+},
+"graduate": {
+"major": "noun",
+"readings": {
+"noun": {
+"arpa": "G R AE1 JH UW0 AH0 T",
+"ipa": "ɡɹædʒuːət",
+"resp": "grad-ju-it",
+"gloss": "noun: a person who has completed a degree"
+},
+"verb": {
+"arpa": "G R AE1 JH UW0 EY2 T",
+"ipa": "ɡɹædʒuːeɪt",
+"resp": "grad-ju-ate",
+"gloss": "verb: to complete a degree"
+}
+}
+},
+"resume": {
+"major": "verb",
+"readings": {
+"verb": {
+"arpa": "R IH0 Z UW1 M",
+"ipa": "ɹɪzuːm",
+"resp": "ree-zoom",
+"gloss": "verb: to continue"
+},
+"noun": {
+"arpa": "R EH1 Z AH0 M EY2",
+"ipa": "ɹɛzəmeɪ",
+"resp": "rez-uh-may",
+"gloss": "noun: a CV (résumé)"
+}
+}
+},
+"axes": {
+"major": "axiz",
+"readings": {
+"axiz": {
+"arpa": "AE1 K S IH0 Z",
+"ipa": "æksɪz",
+"resp": "ack-siz",
+"gloss": "plural of 'axe' (the tool)"
+},
+"axeez": {
+"arpa": "AE1 K S IY0 Z",
+"ipa": "æksiːz",
+"resp": "ack-seez",
+"gloss": "plural of 'axis'"
+}
+}
+}
+},
+"items": {
+"en_read_1a": {
+"lang": "en",
+"text": "Every night before bed, I like to read a few pages of a novel.",
+"word": "read",
+"pos": [
+34,
+38
+],
+"answer": "reed",
+"cands": [
+"red",
+"reed"
+],
+"minority": false,
+"llm_check": [
+"reed",
+"reed"
+],
+"hold": false,
+"src": "v1"
+},
+"en_read_2a": {
+"lang": "en",
+"text": "Could you read the instructions aloud so everyone can hear them?",
+"word": "read",
+"pos": [
+10,
+14
+],
+"answer": "reed",
+"cands": [
+"red",
+"reed"
+],
+"minority": false,
+"llm_check": [
+"reed",
+"reed"
+],
+"hold": false,
+"src": "v1"
+},
+"en_read_1b": {
+"lang": "en",
+"text": "Yesterday afternoon she read the whole report in one sitting.",
+"word": "read",
+"pos": [
+24,
+28
+],
+"answer": "red",
+"cands": [
+"red",
+"reed"
+],
+"minority": true,
+"llm_check": [
+"red",
+"red"
+],
+"hold": false,
+"src": "v1"
+},
+"en_read_2b": {
+"lang": "en",
+"text": "I have already read that book twice, so let me pick another one.",
+"word": "read",
+"pos": [
+15,
+19
+],
+"answer": "red",
+"cands": [
+"red",
+"reed"
+],
+"minority": true,
+"llm_check": [
+"red",
+"red"
+],
+"hold": false,
+"src": "v1"
+},
+"en_lead_1a": {
+"lang": "en",
+"text": "She was chosen to lead the team through the difficult project.",
+"word": "lead",
+"pos": [
+18,
+22
+],
+"answer": "leed",
+"cands": [
+"led",
+"leed"
+],
+"minority": false,
+"llm_check": [
+"leed",
+"leed"
+],
+"hold": false,
+"src": "v1"
+},
+"en_lead_2a": {
+"lang": "en",
+"text": "This narrow path will lead you straight to the old lighthouse.",
+"word": "lead",
+"pos": [
+22,
+26
+],
+"answer": "leed",
+"cands": [
+"led",
+"leed"
+],
+"minority": false,
+"llm_check": [
+"leed",
+"leed"
+],
+"hold": false,
+"src": "v1"
+},
+"en_lead_1b": {
+"lang": "en",
+"text": "Old water pipes made of lead can poison the drinking water.",
+"word": "lead",
+"pos": [
+24,
+28
+],
+"answer": "led",
+"cands": [
+"led",
+"leed"
+],
+"minority": true,
+"llm_check": [
+"led",
+"led"
+],
+"hold": false,
+"src": "v1"
+},
+"en_lead_2b": {
+"lang": "en",
+"text": "The pencil broke because its lead was too thin and brittle.",
+"word": "lead",
+"pos": [
+29,
+33
+],
+"answer": "led",
+"cands": [
+"led",
+"leed"
+],
+"minority": true,
+"llm_check": [
+"led",
+"led"
+],
+"hold": false,
+"src": "v1"
+},
+"en_live_1a": {
+"lang": "en",
+"text": "They want to live in a quiet village near the mountains.",
+"word": "live",
+"pos": [
+13,
+17
+],
+"answer": "liv",
+"cands": [
+"liv",
+"lyve"
+],
+"minority": false,
+"llm_check": [
+"liv",
+"liv"
+],
+"hold": false,
+"src": "v1"
+},
+"en_live_2a": {
+"lang": "en",
+"text": "Many birds live in the tall trees behind our school.",
+"word": "live",
+"pos": [
+11,
+15
+],
+"answer": "liv",
+"cands": [
+"liv",
+"lyve"
+],
+"minority": false,
+"llm_check": [
+"liv",
+"liv"
+],
+"hold": false,
+"src": "v1"
+},
+"en_live_1b": {
+"lang": "en",
+"text": "The band will play a live concert in the park tonight.",
+"word": "live",
+"pos": [
+21,
+25
+],
+"answer": "lyve",
+"cands": [
+"liv",
+"lyve"
+],
+"minority": true,
+"llm_check": [
+"lyve",
+"lyve"
+],
+"hold": false,
+"src": "v1"
+},
+"en_live_2b": {
+"lang": "en",
+"text": "Be careful, that wire is live and could give you a shock.",
+"word": "live",
+"pos": [
+25,
+29
+],
+"answer": "lyve",
+"cands": [
+"liv",
+"lyve"
+],
+"minority": true,
+"llm_check": [
+"lyve",
+"lyve"
+],
+"hold": false,
+"src": "v1"
+},
+"en_record_1a": {
+"lang": "en",
+"text": "My grandfather still plays his favorite jazz record every Sunday.",
+"word": "record",
+"pos": [
+45,
+51
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"llm_check": [
+null,
+"noun"
+],
+"hold": false,
+"src": "v1"
+},
+"en_record_2a": {
+"lang": "en",
+"text": "She broke the world record for the women's marathon.",
+"word": "record",
+"pos": [
+20,
+26
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"llm_check": [
+"noun",
+"noun"
+],
+"hold": false,
+"src": "v1"
+},
+"en_record_1b": {
+"lang": "en",
+"text": "Please record the meeting so the absent members can listen later.",
+"word": "record",
+"pos": [
+7,
+13
+],
+"answer": "verb",
+"cands": [
+"noun",
+"verb"
+],
+"minority": true,
+"llm_check": [
+"verb",
+"verb"
+],
+"hold": false,
+"src": "v1"
+},
+"en_record_2b": {
+"lang": "en",
+"text": "The scientists will record the temperature every hour.",
+"word": "record",
+"pos": [
+20,
+26
+],
+"answer": "verb",
+"cands": [
+"noun",
+"verb"
+],
+"minority": true,
+"llm_check": [
+"verb",
+"verb"
+],
+"hold": false,
+"src": "v1"
+},
+"en_present_1a": {
+"lang": "en",
+"text": "He wrapped the birthday present in shiny blue paper.",
+"word": "present",
+"pos": [
+24,
+31
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"llm_check": [
+"noun",
+"noun"
+],
+"hold": false,
+"src": "v1"
+},
+"en_present_2a": {
+"lang": "en",
+"text": "All the students were present when the teacher called the roll.",
+"word": "present",
+"pos": [
+22,
+29
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"llm_check": [
+"noun",
+"noun"
+],
+"hold": false,
+"src": "v1"
+},
+"en_present_1b": {
+"lang": "en",
+"text": "Tomorrow morning I will present our findings to the board.",
+"word": "present",
+"pos": [
+24,
+31
+],
+"answer": "verb",
+"cands": [
+"noun",
+"verb"
+],
+"minority": true,
+"llm_check": [
+"verb",
+"verb"
+],
+"hold": false,
+"src": "v1"
+},
+"en_present_2b": {
+"lang": "en",
+"text": "The mayor stood up to present the award to the young volunteer.",
+"word": "present",
+"pos": [
+22,
+29
+],
+"answer": "verb",
+"cands": [
+"noun",
+"verb"
+],
+"minority": true,
+"llm_check": [
+"verb",
+"verb"
+],
+"hold": false,
+"src": "v1"
+},
+"en_wind_1a": {
+"lang": "en",
+"text": "A cold wind blew through the open window all night.",
+"word": "wind",
+"pos": [
+7,
+11
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"llm_check": [
+"noun",
+"noun"
+],
+"hold": false,
+"src": "v1"
+},
+"en_wind_2a": {
+"lang": "en",
+"text": "The strong wind knocked down several trees along the river.",
+"word": "wind",
+"pos": [
+11,
+15
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"llm_check": [
+"noun",
+"noun"
+],
+"hold": false,
+"src": "v1"
+},
+"en_wind_1b": {
+"lang": "en",
+"text": "Remember to wind the old clock before you go to sleep.",
+"word": "wind",
+"pos": [
+12,
+16
+],
+"answer": "verb",
+"cands": [
+"noun",
+"verb"
+],
+"minority": true,
+"llm_check": [
+"verb",
+"verb"
+],
+"hold": false,
+"src": "v1"
+},
+"en_wind_2b": {
+"lang": "en",
+"text": "You need to wind the rope tightly around the post.",
+"word": "wind",
+"pos": [
+12,
+16
+],
+"answer": "verb",
+"cands": [
+"noun",
+"verb"
+],
+"minority": true,
+"llm_check": [
+"verb",
+"verb"
+],
+"hold": false,
+"src": "v1"
+},
+"en_tear_1a": {
+"lang": "en",
+"text": "A single tear rolled down her cheek during the sad movie.",
+"word": "tear",
+"pos": [
+9,
+13
+],
+"answer": "teer",
+"cands": [
+"tare",
+"teer"
+],
+"minority": false,
+"llm_check": [
+"teer",
+"teer"
+],
+"hold": false,
+"src": "v1"
+},
+"en_tear_2a": {
+"lang": "en",
+"text": "He wiped a tear from his eye at his daughter's wedding.",
+"word": "tear",
+"pos": [
+11,
+15
+],
+"answer": "teer",
+"cands": [
+"tare",
+"teer"
+],
+"minority": false,
+"llm_check": [
+"teer",
+"teer"
+],
+"hold": false,
+"src": "v1"
+},
+"en_tear_1b": {
+"lang": "en",
+"text": "Be careful not to tear the paper when you open the envelope.",
+"word": "tear",
+"pos": [
+18,
+22
+],
+"answer": "tare",
+"cands": [
+"tare",
+"teer"
+],
+"minority": true,
+"llm_check": [
+"tare",
+"tare"
+],
+"hold": false,
+"src": "v1"
+},
+"en_tear_2b": {
+"lang": "en",
+"text": "There is a small tear in the sleeve of my jacket.",
+"word": "tear",
+"pos": [
+17,
+21
+],
+"answer": "tare",
+"cands": [
+"tare",
+"teer"
+],
+"minority": true,
+"llm_check": [
+"tare",
+"tare"
+],
+"hold": false,
+"src": "v1"
+},
+"en_bass_1a": {
+"lang": "en",
+"text": "He plays the bass guitar in a small rock band.",
+"word": "bass",
+"pos": [
+13,
+17
+],
+"answer": "base",
+"cands": [
+"base",
+"fish"
+],
+"minority": false,
+"llm_check": [
+"base",
+"base"
+],
+"hold": true,
+"src": "v1"
+},
+"en_bass_2a": {
+"lang": "en",
+"text": "Turn down the bass, the whole room is shaking.",
+"word": "bass",
+"pos": [
+14,
+18
+],
+"answer": "base",
+"cands": [
+"base",
+"fish"
+],
+"minority": false,
+"llm_check": [
+"base",
+"base"
+],
+"hold": true,
+"src": "v1"
+},
+"en_bass_1b": {
+"lang": "en",
+"text": "My uncle caught a huge bass while fishing on the lake.",
+"word": "bass",
+"pos": [
+23,
+27
+],
+"answer": "fish",
+"cands": [
+"base",
+"fish"
+],
+"minority": true,
+"llm_check": [
+"fish",
+"fish"
+],
+"hold": true,
+"src": "v1"
+},
+"en_bass_2b": {
+"lang": "en",
+"text": "We grilled the fresh bass with lemon and herbs for dinner.",
+"word": "bass",
+"pos": [
+21,
+25
+],
+"answer": "fish",
+"cands": [
+"base",
+"fish"
+],
+"minority": true,
+"llm_check": [
+"fish",
+"fish"
+],
+"hold": true,
+"src": "v1"
+},
+"en_bow_1a": {
+"lang": "en",
+"text": "The actors stepped forward to bow as the audience applauded.",
+"word": "bow",
+"pos": [
+30,
+33
+],
+"answer": "bau",
+"cands": [
+"bau",
+"bo"
+],
+"minority": false,
+"llm_check": [
+"bau",
+"bau"
+],
+"hold": false,
+"src": "v1"
+},
+"en_bow_2a": {
+"lang": "en",
+"text": "Huge waves crashed against the bow of the ship.",
+"word": "bow",
+"pos": [
+31,
+34
+],
+"answer": "bau",
+"cands": [
+"bau",
+"bo"
+],
+"minority": false,
+"llm_check": [
+"bau",
+"bau"
+],
+"hold": false,
+"src": "v1"
+},
+"en_bow_1b": {
+"lang": "en",
+"text": "She tied a red bow in her daughter's hair.",
+"word": "bow",
+"pos": [
+15,
+18
+],
+"answer": "bo",
+"cands": [
+"bau",
+"bo"
+],
+"minority": true,
+"llm_check": [
+"bo",
+"bo"
+],
+"hold": false,
+"src": "v1"
+},
+"en_bow_2b": {
+"lang": "en",
+"text": "The archer pulled back the string of his bow and aimed.",
+"word": "bow",
+"pos": [
+41,
+44
+],
+"answer": "bo",
+"cands": [
+"bau",
+"bo"
+],
+"minority": true,
+"llm_check": [
+"bo",
+"bo"
+],
+"hold": false,
+"src": "v1"
+},
+"en_close_1b": {
+"lang": "en",
+"text": "Our new apartment is very close to the train station.",
+"word": "close",
+"pos": [
+26,
+31
+],
+"answer": "s",
+"cands": [
+"s",
+"z"
+],
+"minority": true,
+"llm_check": [
+"s",
+"s"
+],
+"hold": false,
+"src": "v1"
+},
+"en_close_2b": {
+"lang": "en",
+"text": "The two sisters have always been close friends.",
+"word": "close",
+"pos": [
+33,
+38
+],
+"answer": "s",
+"cands": [
+"s",
+"z"
+],
+"minority": true,
+"llm_check": [
+"s",
+"s"
+],
+"hold": false,
+"src": "v1"
+},
+"en_close_1a": {
+"lang": "en",
+"text": "Please close the door quietly when you leave.",
+"word": "close",
+"pos": [
+7,
+12
+],
+"answer": "z",
+"cands": [
+"s",
+"z"
+],
+"minority": false,
+"llm_check": [
+"z",
+"z"
+],
+"hold": false,
+"src": "v1"
+},
+"en_close_2a": {
+"lang": "en",
+"text": "The shop will close early because of the holiday.",
+"word": "close",
+"pos": [
+14,
+19
+],
+"answer": "z",
+"cands": [
+"s",
+"z"
+],
+"minority": false,
+"llm_check": [
+"z",
+"z"
+],
+"hold": false,
+"src": "v1"
+},
+"en_object_1a": {
+"lang": "en",
+"text": "The child picked up a strange shiny object from the sand.",
+"word": "object",
+"pos": [
+36,
+42
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"llm_check": [
+"noun",
+"noun"
+],
+"hold": false,
+"src": "v1"
+},
+"en_object_2a": {
+"lang": "en",
+"text": "The object of the game is to collect as many cards as possible.",
+"word": "object",
+"pos": [
+4,
+10
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"llm_check": [
+"noun",
+"noun"
+],
+"hold": false,
+"src": "v1"
+},
+"en_object_1b": {
+"lang": "en",
+"text": "Many residents object to the new highway near their homes.",
+"word": "object",
+"pos": [
+15,
+21
+],
+"answer": "verb",
+"cands": [
+"noun",
+"verb"
+],
+"minority": true,
+"llm_check": [
+"verb",
+"verb"
+],
+"hold": false,
+"src": "v1"
+},
+"en_object_2b": {
+"lang": "en",
+"text": "I strongly object to being treated like this.",
+"word": "object",
+"pos": [
+11,
+17
+],
+"answer": "verb",
+"cands": [
+"noun",
+"verb"
+],
+"minority": true,
+"llm_check": [
+"verb",
+"verb"
+],
+"hold": false,
+"src": "v1"
+},
+"en_content_1a": {
+"lang": "en",
+"text": "The content of the course was more difficult than expected.",
+"word": "content",
+"pos": [
+4,
+11
+],
+"answer": "noun",
+"cands": [
+"adj",
+"noun"
+],
+"minority": false,
+"llm_check": [
+"noun",
+"noun"
+],
+"hold": false,
+"src": "v1"
+},
+"en_content_2a": {
+"lang": "en",
+"text": "Parents should check the content of the videos their children watch.",
+"word": "content",
+"pos": [
+25,
+32
+],
+"answer": "noun",
+"cands": [
+"adj",
+"noun"
+],
+"minority": false,
+"llm_check": [
+"noun",
+"noun"
+],
+"hold": false,
+"src": "v1"
+},
+"en_content_1b": {
+"lang": "en",
+"text": "The old man was content to sit quietly by the fire.",
+"word": "content",
+"pos": [
+16,
+23
+],
+"answer": "adj",
+"cands": [
+"adj",
+"noun"
+],
+"minority": true,
+"llm_check": [
+"adj",
+"adj"
+],
+"hold": false,
+"src": "v1"
+},
+"en_content_2b": {
+"lang": "en",
+"text": "She seemed perfectly content with her simple life in the countryside.",
+"word": "content",
+"pos": [
+21,
+28
+],
+"answer": "adj",
+"cands": [
+"adj",
+"noun"
+],
+"minority": true,
+"llm_check": [
+"adj",
+"adj"
+],
+"hold": false,
+"src": "v1"
+},
+"en_desert_1a": {
+"lang": "en",
+"text": "Camels can travel for days across the hot desert without water.",
+"word": "desert",
+"pos": [
+42,
+48
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"llm_check": [
+"noun",
+"noun"
+],
+"hold": false,
+"src": "v1"
+},
+"en_desert_2a": {
+"lang": "en",
+"text": "Very little rain falls in the desert each year.",
+"word": "desert",
+"pos": [
+30,
+36
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"llm_check": [
+"noun",
+"noun"
+],
+"hold": false,
+"src": "v1"
+},
+"en_desert_1b": {
+"lang": "en",
+"text": "A loyal soldier would never desert his comrades in battle.",
+"word": "desert",
+"pos": [
+28,
+34
+],
+"answer": "verb",
+"cands": [
+"noun",
+"verb"
+],
+"minority": true,
+"llm_check": [
+"verb",
+"verb"
+],
+"hold": false,
+"src": "v1"
+},
+"en_desert_2b": {
+"lang": "en",
+"text": "Please do not desert me when I need your help the most.",
+"word": "desert",
+"pos": [
+14,
+20
+],
+"answer": "verb",
+"cands": [
+"noun",
+"verb"
+],
+"minority": true,
+"llm_check": [
+"verb",
+"verb"
+],
+"hold": false,
+"src": "v1"
+},
+"en_minute_1a": {
+"lang": "en",
+"text": "Could you wait a minute while I find my keys?",
+"word": "minute",
+"pos": [
+17,
+23
+],
+"answer": "minit",
+"cands": [
+"minit",
+"mynoot"
+],
+"minority": false,
+"llm_check": [
+"minit",
+"minit"
+],
+"hold": true,
+"src": "v1"
+},
+"en_minute_2a": {
+"lang": "en",
+"text": "The train leaves in one minute, so we have to run.",
+"word": "minute",
+"pos": [
+24,
+30
+],
+"answer": "minit",
+"cands": [
+"minit",
+"mynoot"
+],
+"minority": false,
+"llm_check": [
+"minit",
+"minit"
+],
+"hold": true,
+"src": "v1"
+},
+"en_minute_1b": {
+"lang": "en",
+"text": "The scientist examined the minute details of the insect's wing.",
+"word": "minute",
+"pos": [
+27,
+33
+],
+"answer": "mynoot",
+"cands": [
+"minit",
+"mynoot"
+],
+"minority": true,
+"llm_check": [
+"mynoot",
+"mynoot"
+],
+"hold": true,
+"src": "v1"
+},
+"en_minute_2b": {
+"lang": "en",
+"text": "The jeweler noticed a minute scratch that nobody else could see.",
+"word": "minute",
+"pos": [
+22,
+28
+],
+"answer": "mynoot",
+"cands": [
+"minit",
+"mynoot"
+],
+"minority": true,
+"llm_check": [
+"mynoot",
+"mynoot"
+],
+"hold": true,
+"src": "v1"
+},
+"en_produce_1b": {
+"lang": "en",
+"text": "The market sells fresh produce from local farms.",
+"word": "produce",
+"pos": [
+23,
+30
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": true,
+"llm_check": [
+"noun",
+"noun"
+],
+"hold": false,
+"src": "v1"
+},
+"en_produce_2b": {
+"lang": "en",
+"text": "Wash all the produce carefully before you cook it.",
+"word": "produce",
+"pos": [
+13,
+20
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": true,
+"llm_check": [
+"noun",
+"noun"
+],
+"hold": false,
+"src": "v1"
+},
+"en_produce_1a": {
+"lang": "en",
+"text": "This factory can produce thousands of cars each year.",
+"word": "produce",
+"pos": [
+17,
+24
+],
+"answer": "verb",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"llm_check": [
+"verb",
+"verb"
+],
+"hold": false,
+"src": "v1"
+},
+"en_produce_2a": {
+"lang": "en",
+"text": "Bees produce honey from the nectar of flowers.",
+"word": "produce",
+"pos": [
+5,
+12
+],
+"answer": "verb",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"llm_check": [
+"verb",
+"verb"
+],
+"hold": false,
+"src": "v1"
+},
+"en_row_1a": {
+"lang": "en",
+"text": "We sat in the front row of the theater.",
+"word": "row",
+"pos": [
+20,
+23
+],
+"answer": "roe",
+"cands": [
+"rau",
+"roe"
+],
+"minority": false,
+"llm_check": [
+"roe",
+"roe"
+],
+"hold": false,
+"src": "v1"
+},
+"en_row_2a": {
+"lang": "en",
+"text": "They had to row the small boat across the lake.",
+"word": "row",
+"pos": [
+12,
+15
+],
+"answer": "roe",
+"cands": [
+"rau",
+"roe"
+],
+"minority": false,
+"llm_check": [
+"roe",
+"roe"
+],
+"hold": false,
+"src": "v1"
+},
+"en_row_1b": {
+"lang": "en",
+"text": "My neighbors had a loud row about money last night.",
+"word": "row",
+"pos": [
+24,
+27
+],
+"answer": "rau",
+"cands": [
+"rau",
+"roe"
+],
+"minority": true,
+"llm_check": [
+"rau",
+"rau"
+],
+"hold": false,
+"src": "v1"
+},
+"en_row_2b": {
+"lang": "en",
+"text": "After a bitter row with his boss, he quit his job.",
+"word": "row",
+"pos": [
+15,
+18
+],
+"answer": "rau",
+"cands": [
+"rau",
+"roe"
+],
+"minority": true,
+"llm_check": [
+"rau",
+"rau"
+],
+"hold": false,
+"src": "v1"
+},
+"en_wound_1a": {
+"lang": "en",
+"text": "The doctor cleaned the deep wound on his leg.",
+"word": "wound",
+"pos": [
+28,
+33
+],
+"answer": "woond",
+"cands": [
+"woond",
+"wownd"
+],
+"minority": false,
+"llm_check": [
+"woond",
+"woond"
+],
+"hold": true,
+"src": "v1"
+},
+"en_wound_2a": {
+"lang": "en",
+"text": "It took weeks for the wound to heal completely.",
+"word": "wound",
+"pos": [
+22,
+27
+],
+"answer": "woond",
+"cands": [
+"woond",
+"wownd"
+],
+"minority": false,
+"llm_check": [
+"woond",
+"woond"
+],
+"hold": true,
+"src": "v1"
+},
+"en_wound_1b": {
+"lang": "en",
+"text": "She wound the thread around the spool.",
+"word": "wound",
+"pos": [
+4,
+9
+],
+"answer": "wownd",
+"cands": [
+"woond",
+"wownd"
+],
+"minority": true,
+"llm_check": [
+"wownd",
+"wownd"
+],
+"hold": true,
+"src": "v1"
+},
+"en_wound_2b": {
+"lang": "en",
+"text": "The river wound slowly through the green valley.",
+"word": "wound",
+"pos": [
+10,
+15
+],
+"answer": "wownd",
+"cands": [
+"woond",
+"wownd"
+],
+"minority": true,
+"llm_check": [
+"wownd",
+"wownd"
+],
+"hold": true,
+"src": "v1"
+},
+"en_use_1b": {
+"lang": "en",
+"text": "There is no use crying over spilled milk.",
+"word": "use",
+"pos": [
+12,
+15
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": true,
+"llm_check": [
+"noun",
+"noun"
+],
+"hold": false,
+"src": "v1"
+},
+"en_use_2b": {
+"lang": "en",
+"text": "What is the use of a key without a lock?",
+"word": "use",
+"pos": [
+12,
+15
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": true,
+"llm_check": [
+"noun",
+"noun"
+],
+"hold": false,
+"src": "v1"
+},
+"en_use_1a": {
+"lang": "en",
+"text": "You can use my pen if you forgot yours.",
+"word": "use",
+"pos": [
+8,
+11
+],
+"answer": "verb",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"llm_check": [
+"verb",
+"verb"
+],
+"hold": false,
+"src": "v1"
+},
+"en_use_2a": {
+"lang": "en",
+"text": "We use this room for meetings on Fridays.",
+"word": "use",
+"pos": [
+3,
+6
+],
+"answer": "verb",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"llm_check": [
+"verb",
+"verb"
+],
+"hold": false,
+"src": "v1"
+},
+"en_invalid_1a": {
+"lang": "en",
+"text": "The password you entered is invalid, please try again.",
+"word": "invalid",
+"pos": [
+28,
+35
+],
+"answer": "adj",
+"cands": [
+"adj",
+"noun"
+],
+"minority": false,
+"llm_check": [
+"adj",
+"adj"
+],
+"hold": false,
+"src": "v1"
+},
+"en_invalid_2a": {
+"lang": "en",
+"text": "His passport was invalid because it had expired.",
+"word": "invalid",
+"pos": [
+17,
+24
+],
+"answer": "adj",
+"cands": [
+"adj",
+"noun"
+],
+"minority": false,
+"llm_check": [
+"adj",
+"adj"
+],
+"hold": false,
+"src": "v1"
+},
+"en_invalid_1b": {
+"lang": "en",
+"text": "After the accident he lived as an invalid for many years.",
+"word": "invalid",
+"pos": [
+34,
+41
+],
+"answer": "noun",
+"cands": [
+"adj",
+"noun"
+],
+"minority": true,
+"llm_check": [
+"noun",
+"noun"
+],
+"hold": false,
+"src": "v1"
+},
+"en_invalid_2b": {
+"lang": "en",
+"text": "She devoted her life to caring for her invalid mother.",
+"word": "invalid",
+"pos": [
+39,
+46
+],
+"answer": "noun",
+"cands": [
+"adj",
+"noun"
+],
+"minority": true,
+"llm_check": [
+"noun",
+"noun"
+],
+"hold": false,
+"src": "v1"
+},
+"en_refuse_1a": {
+"lang": "en",
+"text": "I refuse to believe that story.",
+"word": "refuse",
+"pos": [
+2,
+8
+],
+"answer": "verb",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"llm_check": [
+"verb",
+"verb"
+],
+"hold": false,
+"src": "v1"
+},
+"en_refuse_2a": {
+"lang": "en",
+"text": "Some children refuse to eat their vegetables.",
+"word": "refuse",
+"pos": [
+14,
+20
+],
+"answer": "verb",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"llm_check": [
+"verb",
+"verb"
+],
+"hold": false,
+"src": "v1"
+},
+"en_refuse_1b": {
+"lang": "en",
+"text": "The city collects household refuse every Tuesday.",
+"word": "refuse",
+"pos": [
+28,
+34
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": true,
+"llm_check": [
+"noun",
+"noun"
+],
+"hold": false,
+"src": "v1"
+},
+"en_refuse_2b": {
+"lang": "en",
+"text": "Piles of refuse were left on the street after the festival.",
+"word": "refuse",
+"pos": [
+9,
+15
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": true,
+"llm_check": [
+"noun",
+"noun"
+],
+"hold": false,
+"src": "v1"
+},
+"en_dove_1a": {
+"lang": "en",
+"text": "A white dove is often seen as a symbol of peace.",
+"word": "dove",
+"pos": [
+8,
+12
+],
+"answer": "duv",
+"cands": [
+"dohv",
+"duv"
+],
+"minority": false,
+"llm_check": [
+"duv",
+"duv"
+],
+"hold": true,
+"src": "v1"
+},
+"en_dove_2a": {
+"lang": "en",
+"text": "The dove cooed softly on the window ledge.",
+"word": "dove",
+"pos": [
+4,
+8
+],
+"answer": "duv",
+"cands": [
+"dohv",
+"duv"
+],
+"minority": false,
+"llm_check": [
+"duv",
+"duv"
+],
+"hold": true,
+"src": "v1"
+},
+"en_dove_1b": {
+"lang": "en",
+"text": "The boy dove into the cold lake without hesitation.",
+"word": "dove",
+"pos": [
+8,
+12
+],
+"answer": "dohv",
+"cands": [
+"dohv",
+"duv"
+],
+"minority": true,
+"llm_check": [
+"dohv",
+"dohv"
+],
+"hold": true,
+"src": "v1"
+},
+"en_dove_2b": {
+"lang": "en",
+"text": "The goalkeeper dove to the left and caught the ball.",
+"word": "dove",
+"pos": [
+15,
+19
+],
+"answer": "dohv",
+"cands": [
+"dohv",
+"duv"
+],
+"minority": true,
+"llm_check": [
+"dohv",
+"dohv"
+],
+"hold": true,
+"src": "v1"
+},
+"en_sow_1a": {
+"lang": "en",
+"text": "Farmers sow their seeds in early spring.",
+"word": "sow",
+"pos": [
+8,
+11
+],
+"answer": "so",
+"cands": [
+"sau",
+"so"
+],
+"minority": false,
+"llm_check": [
+"so",
+"so"
+],
+"hold": true,
+"src": "v1"
+},
+"en_sow_2a": {
+"lang": "en",
+"text": "If you sow kindness, you will reap friendship.",
+"word": "sow",
+"pos": [
+7,
+10
+],
+"answer": "so",
+"cands": [
+"sau",
+"so"
+],
+"minority": false,
+"llm_check": [
+"so",
+"so"
+],
+"hold": true,
+"src": "v1"
+},
+"en_sow_1b": {
+"lang": "en",
+"text": "The sow lay in the mud with her piglets around her.",
+"word": "sow",
+"pos": [
+4,
+7
+],
+"answer": "sau",
+"cands": [
+"sau",
+"so"
+],
+"minority": true,
+"llm_check": [
+"sau",
+"sau"
+],
+"hold": true,
+"src": "v1"
+},
+"en_sow_2b": {
+"lang": "en",
+"text": "The farmer fed the big sow some corn.",
+"word": "sow",
+"pos": [
+23,
+26
+],
+"answer": "sau",
+"cands": [
+"sau",
+"so"
+],
+"minority": true,
+"llm_check": [
+"sau",
+"sau"
+],
+"hold": true,
+"src": "v1"
+},
+"en_does_1a": {
+"lang": "en",
+"text": "She does her homework right after school.",
+"word": "does",
+"pos": [
+4,
+8
+],
+"answer": "duz",
+"cands": [
+"doze",
+"duz"
+],
+"minority": false,
+"llm_check": [
+"duz",
+"duz"
+],
+"hold": false,
+"src": "v1"
+},
+"en_does_2a": {
+"lang": "en",
+"text": "What time does the museum open on weekends?",
+"word": "does",
+"pos": [
+10,
+14
+],
+"answer": "duz",
+"cands": [
+"doze",
+"duz"
+],
+"minority": false,
+"llm_check": [
+"duz",
+"duz"
+],
+"hold": false,
+"src": "v1"
+},
+"en_does_1b": {
+"lang": "en",
+"text": "Two does and a young buck wandered into the meadow.",
+"word": "does",
+"pos": [
+4,
+8
+],
+"answer": "doze",
+"cands": [
+"doze",
+"duz"
+],
+"minority": true,
+"llm_check": [
+"doze",
+"doze"
+],
+"hold": false,
+"src": "v1"
+},
+"en_does_2b": {
+"lang": "en",
+"text": "The hunters were only allowed to shoot bucks, not does.",
+"word": "does",
+"pos": [
+50,
+54
+],
+"answer": "doze",
+"cands": [
+"doze",
+"duz"
+],
+"minority": true,
+"llm_check": [
+"doze",
+"doze"
+],
+"hold": false,
+"src": "v1"
+},
+"en_excuse_1a": {
+"lang": "en",
+"text": "He always has an excuse for being late.",
+"word": "excuse",
+"pos": [
+17,
+23
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"llm_check": [
+"noun",
+"noun"
+],
+"hold": false,
+"src": "v1"
+},
+"en_excuse_2a": {
+"lang": "en",
+"text": "That is not a good excuse for missing class.",
+"word": "excuse",
+"pos": [
+19,
+25
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"llm_check": [
+"noun",
+"noun"
+],
+"hold": false,
+"src": "v1"
+},
+"en_excuse_1b": {
+"lang": "en",
+"text": "Please excuse me, I need to answer this call.",
+"word": "excuse",
+"pos": [
+7,
+13
+],
+"answer": "verb",
+"cands": [
+"noun",
+"verb"
+],
+"minority": true,
+"llm_check": [
+"verb",
+"verb"
+],
+"hold": false,
+"src": "v1"
+},
+"en_excuse_2b": {
+"lang": "en",
+"text": "I hope you will excuse my messy handwriting.",
+"word": "excuse",
+"pos": [
+16,
+22
+],
+"answer": "verb",
+"cands": [
+"noun",
+"verb"
+],
+"minority": true,
+"llm_check": [
+"verb",
+"verb"
+],
+"hold": false,
+"src": "v1"
+},
+"en_house_1a": {
+"lang": "en",
+"text": "They bought an old house near the beach.",
+"word": "house",
+"pos": [
+19,
+24
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"llm_check": [
+"noun",
+"noun"
+],
+"hold": false,
+"src": "v1"
+},
+"en_house_2a": {
+"lang": "en",
+"text": "The house at the end of the street is painted yellow.",
+"word": "house",
+"pos": [
+4,
+9
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"llm_check": [
+"noun",
+"noun"
+],
+"hold": false,
+"src": "v1"
+},
+"en_house_1b": {
+"lang": "en",
+"text": "The new building will house over two hundred families.",
+"word": "house",
+"pos": [
+22,
+27
+],
+"answer": "verb",
+"cands": [
+"noun",
+"verb"
+],
+"minority": true,
+"llm_check": [
+"verb",
+"verb"
+],
+"hold": false,
+"src": "v1"
+},
+"en_house_2b": {
+"lang": "en",
+"text": "The museum was built to house the royal collection.",
+"word": "house",
+"pos": [
+24,
+29
+],
+"answer": "verb",
+"cands": [
+"noun",
+"verb"
+],
+"minority": true,
+"llm_check": [
+"verb",
+"verb"
+],
+"hold": false,
+"src": "v1"
+},
+"en_separate_1a": {
+"lang": "en",
+"text": "The children sleep in separate rooms.",
+"word": "separate",
+"pos": [
+22,
+30
+],
+"answer": "adj",
+"cands": [
+"adj",
+"verb"
+],
+"minority": false,
+"llm_check": [
+"adj",
+"adj"
+],
+"hold": false,
+"src": "v1"
+},
+"en_separate_2a": {
+"lang": "en",
+"text": "Keep the raw meat on a separate plate.",
+"word": "separate",
+"pos": [
+23,
+31
+],
+"answer": "adj",
+"cands": [
+"adj",
+"verb"
+],
+"minority": false,
+"llm_check": [
+"adj",
+"adj"
+],
+"hold": false,
+"src": "v1"
+},
+"en_separate_1b": {
+"lang": "en",
+"text": "Please separate the egg yolks from the whites.",
+"word": "separate",
+"pos": [
+7,
+15
+],
+"answer": "verb",
+"cands": [
+"adj",
+"verb"
+],
+"minority": true,
+"llm_check": [
+"verb",
+"verb"
+],
+"hold": false,
+"src": "v1"
+},
+"en_separate_2b": {
+"lang": "en",
+"text": "The teacher had to separate the two boys who were fighting.",
+"word": "separate",
+"pos": [
+19,
+27
+],
+"answer": "verb",
+"cands": [
+"adj",
+"verb"
+],
+"minority": true,
+"llm_check": [
+"verb",
+"verb"
+],
+"hold": false,
+"src": "v1"
+},
+"en_estimate_1a": {
+"lang": "en",
+"text": "The builder gave us a rough estimate for the repairs.",
+"word": "estimate",
+"pos": [
+28,
+36
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"llm_check": [
+"noun",
+"noun"
+],
+"hold": false,
+"src": "v1"
+},
+"en_estimate_2a": {
+"lang": "en",
+"text": "According to one estimate, the city will double in size.",
+"word": "estimate",
+"pos": [
+17,
+25
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"llm_check": [
+"noun",
+null
+],
+"hold": false,
+"src": "v1"
+},
+"en_estimate_1b": {
+"lang": "en",
+"text": "Can you estimate how long the trip will take?",
+"word": "estimate",
+"pos": [
+8,
+16
+],
+"answer": "verb",
+"cands": [
+"noun",
+"verb"
+],
+"minority": true,
+"llm_check": [
+"verb",
+"verb"
+],
+"hold": false,
+"src": "v1"
+},
+"en_estimate_2b": {
+"lang": "en",
+"text": "Experts estimate that the bridge will cost several million dollars.",
+"word": "estimate",
+"pos": [
+8,
+16
+],
+"answer": "verb",
+"cands": [
+"noun",
+"verb"
+],
+"minority": true,
+"llm_check": [
+"verb",
+"verb"
+],
+"hold": false,
+"src": "v1"
+},
+"en_graduate_1a": {
+"lang": "en",
+"text": "She is a graduate of a famous art school.",
+"word": "graduate",
+"pos": [
+9,
+17
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"llm_check": [
+"noun",
+"noun"
+],
+"hold": false,
+"src": "v1"
+},
+"en_graduate_2a": {
+"lang": "en",
+"text": "Every graduate received a certificate and a handshake.",
+"word": "graduate",
+"pos": [
+6,
+14
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"llm_check": [
+"noun",
+"noun"
+],
+"hold": false,
+"src": "v1"
+},
+"en_graduate_1b": {
+"lang": "en",
+"text": "My brother will graduate from college next summer.",
+"word": "graduate",
+"pos": [
+16,
+24
+],
+"answer": "verb",
+"cands": [
+"noun",
+"verb"
+],
+"minority": true,
+"llm_check": [
+"verb",
+"verb"
+],
+"hold": false,
+"src": "v1"
+},
+"en_graduate_2b": {
+"lang": "en",
+"text": "Only half the students managed to graduate on time.",
+"word": "graduate",
+"pos": [
+34,
+42
+],
+"answer": "verb",
+"cands": [
+"noun",
+"verb"
+],
+"minority": true,
+"llm_check": [
+"verb",
+"verb"
+],
+"hold": false,
+"src": "v1"
+},
+"en_resume_1a": {
+"lang": "en",
+"text": "The meeting will resume after a short break.",
+"word": "resume",
+"pos": [
+17,
+23
+],
+"answer": "verb",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"llm_check": [
+"verb",
+"verb"
+],
+"hold": false,
+"src": "v1"
+},
+"en_resume_2a": {
+"lang": "en",
+"text": "Please resume your work once the alarm stops.",
+"word": "resume",
+"pos": [
+7,
+13
+],
+"answer": "verb",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"llm_check": [
+"verb",
+"verb"
+],
+"hold": false,
+"src": "v1"
+},
+"en_resume_1b": {
+"lang": "en",
+"text": "Send your resume to the hiring manager by Friday.",
+"word": "resume",
+"pos": [
+10,
+16
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": true,
+"llm_check": [
+"noun",
+"noun"
+],
+"hold": false,
+"src": "v1"
+},
+"en_resume_2b": {
+"lang": "en",
+"text": "She updated her resume before applying for the new job.",
+"word": "resume",
+"pos": [
+16,
+22
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": true,
+"llm_check": [
+"noun",
+null
+],
+"hold": false,
+"src": "v1"
+},
+"en_axes_1a": {
+"lang": "en",
+"text": "The lumberjacks sharpened their axes before entering the forest.",
+"word": "axes",
+"pos": [
+32,
+36
+],
+"answer": "axiz",
+"cands": [
+"axeez",
+"axiz"
+],
+"minority": false,
+"llm_check": [
+"axiz",
+"axiz"
+],
+"hold": true,
+"src": "v1"
+},
+"en_axes_2a": {
+"lang": "en",
+"text": "Two heavy axes hung on the wall of the cabin.",
+"word": "axes",
+"pos": [
+10,
+14
+],
+"answer": "axiz",
+"cands": [
+"axeez",
+"axiz"
+],
+"minority": false,
+"llm_check": [
+"axiz",
+"axiz"
+],
+"hold": true,
+"src": "v1"
+},
+"en_axes_1b": {
+"lang": "en",
+"text": "Label the horizontal and vertical axes of your graph clearly.",
+"word": "axes",
+"pos": [
+34,
+38
+],
+"answer": "axeez",
+"cands": [
+"axeez",
+"axiz"
+],
+"minority": true,
+"llm_check": [
+"axeez",
+"axeez"
+],
+"hold": true,
+"src": "v1"
+},
+"en_axes_2b": {
+"lang": "en",
+"text": "Mark the scale on both axes of the chart before plotting the data.",
+"word": "axes",
+"pos": [
+23,
+27
+],
+"answer": "axeez",
+"cands": [
+"axeez",
+"axiz"
+],
+"minority": true,
+"llm_check": [
+"axeez",
+"axeez"
+],
+"hold": true,
+"src": "v1"
+},
+"en2m_0000": {
+"lang": "en",
+"text": "Last week I read three novels in a row.",
+"word": "read",
+"pos": [
+12,
+16
+],
+"answer": "red",
+"cands": [
+"reed",
+"red"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0001": {
+"lang": "en",
+"text": "Have you read the letter she sent us?",
+"word": "read",
+"pos": [
+9,
+13
+],
+"answer": "red",
+"cands": [
+"reed",
+"red"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0002": {
+"lang": "en",
+"text": "He read the instructions twice before starting.",
+"word": "read",
+"pos": [
+3,
+7
+],
+"answer": "red",
+"cands": [
+"reed",
+"red"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0003": {
+"lang": "en",
+"text": "I had already read that article on the train.",
+"word": "read",
+"pos": [
+14,
+18
+],
+"answer": "red",
+"cands": [
+"reed",
+"red"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0004": {
+"lang": "en",
+"text": "When she was young, she read every book in the library.",
+"word": "read",
+"pos": [
+24,
+28
+],
+"answer": "red",
+"cands": [
+"reed",
+"red"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0005": {
+"lang": "en",
+"text": "The message was read aloud at the funeral.",
+"word": "read",
+"pos": [
+16,
+20
+],
+"answer": "red",
+"cands": [
+"reed",
+"red"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0006": {
+"lang": "en",
+"text": "Old paint often contains dangerous amounts of lead.",
+"word": "lead",
+"pos": [
+46,
+50
+],
+"answer": "led",
+"cands": [
+"leed",
+"led"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0007": {
+"lang": "en",
+"text": "The fishing net was weighted with small pieces of lead.",
+"word": "lead",
+"pos": [
+50,
+54
+],
+"answer": "led",
+"cands": [
+"leed",
+"led"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0008": {
+"lang": "en",
+"text": "Water from lead pipes can be unsafe to drink.",
+"word": "lead",
+"pos": [
+11,
+15
+],
+"answer": "led",
+"cands": [
+"leed",
+"led"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0009": {
+"lang": "en",
+"text": "The church windows were held together with strips of lead.",
+"word": "lead",
+"pos": [
+53,
+57
+],
+"answer": "led",
+"cands": [
+"leed",
+"led"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0010": {
+"lang": "en",
+"text": "My legs felt like lead after the marathon.",
+"word": "lead",
+"pos": [
+18,
+22
+],
+"answer": "led",
+"cands": [
+"leed",
+"led"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0011": {
+"lang": "en",
+"text": "The soldiers melted lead to make bullets.",
+"word": "lead",
+"pos": [
+20,
+24
+],
+"answer": "led",
+"cands": [
+"leed",
+"led"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0012": {
+"lang": "en",
+"text": "The band will play live on television tonight.",
+"word": "live",
+"pos": [
+19,
+23
+],
+"answer": "lyve",
+"cands": [
+"liv",
+"lyve"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0013": {
+"lang": "en",
+"text": "We watched the match live from the stadium.",
+"word": "live",
+"pos": [
+21,
+25
+],
+"answer": "lyve",
+"cands": [
+"liv",
+"lyve"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0014": {
+"lang": "en",
+"text": "Be careful, that wire is still live.",
+"word": "live",
+"pos": [
+31,
+35
+],
+"answer": "lyve",
+"cands": [
+"liv",
+"lyve"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0015": {
+"lang": "en",
+"text": "The radio station broadcasts live every morning.",
+"word": "live",
+"pos": [
+29,
+33
+],
+"answer": "lyve",
+"cands": [
+"liv",
+"lyve"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0016": {
+"lang": "en",
+"text": "There were live fish swimming in the tank.",
+"word": "live",
+"pos": [
+11,
+15
+],
+"answer": "lyve",
+"cands": [
+"liv",
+"lyve"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0017": {
+"lang": "en",
+"text": "She prefers live music to recordings.",
+"word": "live",
+"pos": [
+12,
+16
+],
+"answer": "lyve",
+"cands": [
+"liv",
+"lyve"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0018": {
+"lang": "en",
+"text": "The scientists record every change in the water level.",
+"word": "record",
+"pos": [
+15,
+21
+],
+"answer": "verb",
+"cands": [
+"noun",
+"verb"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0019": {
+"lang": "en",
+"text": "Would you mind if I record our conversation?",
+"word": "record",
+"pos": [
+20,
+26
+],
+"answer": "verb",
+"cands": [
+"noun",
+"verb"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0020": {
+"lang": "en",
+"text": "He used an old tape machine to record the birds.",
+"word": "record",
+"pos": [
+31,
+37
+],
+"answer": "verb",
+"cands": [
+"noun",
+"verb"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0021": {
+"lang": "en",
+"text": "Please record the time you arrive each day.",
+"word": "record",
+"pos": [
+7,
+13
+],
+"answer": "verb",
+"cands": [
+"noun",
+"verb"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0022": {
+"lang": "en",
+"text": "The choir will record a holiday album next week.",
+"word": "record",
+"pos": [
+15,
+21
+],
+"answer": "verb",
+"cands": [
+"noun",
+"verb"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0023": {
+"lang": "en",
+"text": "Security cameras record everyone who enters the building.",
+"word": "record",
+"pos": [
+17,
+23
+],
+"answer": "verb",
+"cands": [
+"noun",
+"verb"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0024": {
+"lang": "en",
+"text": "The principal will present the certificates after lunch.",
+"word": "present",
+"pos": [
+19,
+26
+],
+"answer": "verb",
+"cands": [
+"noun",
+"verb"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0025": {
+"lang": "en",
+"text": "Each speaker has ten minutes to present.",
+"word": "present",
+"pos": [
+32,
+39
+],
+"answer": "verb",
+"cands": [
+"noun",
+"verb"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0026": {
+"lang": "en",
+"text": "The new design may present some problems for users.",
+"word": "present",
+"pos": [
+19,
+26
+],
+"answer": "verb",
+"cands": [
+"noun",
+"verb"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0027": {
+"lang": "en",
+"text": "Please present your card to the cashier.",
+"word": "present",
+"pos": [
+7,
+14
+],
+"answer": "verb",
+"cands": [
+"noun",
+"verb"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0028": {
+"lang": "en",
+"text": "The company will present its annual report on Monday.",
+"word": "present",
+"pos": [
+17,
+24
+],
+"answer": "verb",
+"cands": [
+"noun",
+"verb"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0029": {
+"lang": "en",
+"text": "I am going to present my findings to the committee.",
+"word": "present",
+"pos": [
+14,
+21
+],
+"answer": "verb",
+"cands": [
+"noun",
+"verb"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0030": {
+"lang": "en",
+"text": "Grandpa used to wind his pocket watch every night.",
+"word": "wind",
+"pos": [
+16,
+20
+],
+"answer": "verb",
+"cands": [
+"noun",
+"verb"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0031": {
+"lang": "en",
+"text": "The hikers watched the path wind down into the valley.",
+"word": "wind",
+"pos": [
+28,
+32
+],
+"answer": "verb",
+"cands": [
+"noun",
+"verb"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0032": {
+"lang": "en",
+"text": "Wind the string tightly around the kite handle.",
+"word": "wind",
+"pos": [
+0,
+4
+],
+"answer": "verb",
+"cands": [
+"noun",
+"verb"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0033": {
+"lang": "en",
+"text": "She had to wind the film before taking another picture.",
+"word": "wind",
+"pos": [
+11,
+15
+],
+"answer": "verb",
+"cands": [
+"noun",
+"verb"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0034": {
+"lang": "en",
+"text": "Let's wind up the discussion and go home.",
+"word": "wind",
+"pos": [
+6,
+10
+],
+"answer": "verb",
+"cands": [
+"noun",
+"verb"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0035": {
+"lang": "en",
+"text": "The cord will wind back into the vacuum cleaner.",
+"word": "wind",
+"pos": [
+14,
+18
+],
+"answer": "verb",
+"cands": [
+"noun",
+"verb"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0036": {
+"lang": "en",
+"text": "Be careful not to tear the paper.",
+"word": "tear",
+"pos": [
+18,
+22
+],
+"answer": "tare",
+"cands": [
+"teer",
+"tare"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0037": {
+"lang": "en",
+"text": "The dog likes to tear its toys apart.",
+"word": "tear",
+"pos": [
+17,
+21
+],
+"answer": "tare",
+"cands": [
+"teer",
+"tare"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0038": {
+"lang": "en",
+"text": "Please tear off the bottom part of the form.",
+"word": "tear",
+"pos": [
+7,
+11
+],
+"answer": "tare",
+"cands": [
+"teer",
+"tare"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0039": {
+"lang": "en",
+"text": "The wind might tear the tent if we don't secure it.",
+"word": "tear",
+"pos": [
+15,
+19
+],
+"answer": "tare",
+"cands": [
+"teer",
+"tare"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0040": {
+"lang": "en",
+"text": "She watched him tear the envelope open.",
+"word": "tear",
+"pos": [
+16,
+20
+],
+"answer": "tare",
+"cands": [
+"teer",
+"tare"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0041": {
+"lang": "en",
+"text": "Don't tear your new jeans on the fence.",
+"word": "tear",
+"pos": [
+6,
+10
+],
+"answer": "tare",
+"cands": [
+"teer",
+"tare"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0042": {
+"lang": "en",
+"text": "He caught a large bass in the lake.",
+"word": "bass",
+"pos": [
+18,
+22
+],
+"answer": "fish",
+"cands": [
+"base",
+"fish"
+],
+"minority": true,
+"hold": true,
+"src": "claude_v2"
+},
+"en2m_0043": {
+"lang": "en",
+"text": "We grilled the bass with lemon and herbs.",
+"word": "bass",
+"pos": [
+15,
+19
+],
+"answer": "fish",
+"cands": [
+"base",
+"fish"
+],
+"minority": true,
+"hold": true,
+"src": "claude_v2"
+},
+"en2m_0044": {
+"lang": "en",
+"text": "The river is full of trout and bass.",
+"word": "bass",
+"pos": [
+31,
+35
+],
+"answer": "fish",
+"cands": [
+"base",
+"fish"
+],
+"minority": true,
+"hold": true,
+"src": "claude_v2"
+},
+"en2m_0045": {
+"lang": "en",
+"text": "Striped bass migrate along the coast in spring.",
+"word": "bass",
+"pos": [
+8,
+12
+],
+"answer": "fish",
+"cands": [
+"base",
+"fish"
+],
+"minority": true,
+"hold": true,
+"src": "claude_v2"
+},
+"en2m_0046": {
+"lang": "en",
+"text": "The restaurant serves sea bass on Fridays.",
+"word": "bass",
+"pos": [
+26,
+30
+],
+"answer": "fish",
+"cands": [
+"base",
+"fish"
+],
+"minority": true,
+"hold": true,
+"src": "claude_v2"
+},
+"en2m_0047": {
+"lang": "en",
+"text": "My uncle spent the whole morning fishing for bass.",
+"word": "bass",
+"pos": [
+45,
+49
+],
+"answer": "fish",
+"cands": [
+"base",
+"fish"
+],
+"minority": true,
+"hold": true,
+"src": "claude_v2"
+},
+"en2m_0048": {
+"lang": "en",
+"text": "She tied a red bow on the present.",
+"word": "bow",
+"pos": [
+15,
+18
+],
+"answer": "bo",
+"cands": [
+"bau",
+"bo"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0049": {
+"lang": "en",
+"text": "The archer pulled back the string of his bow.",
+"word": "bow",
+"pos": [
+41,
+44
+],
+"answer": "bo",
+"cands": [
+"bau",
+"bo"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0050": {
+"lang": "en",
+"text": "The violinist lifted her bow and began to play.",
+"word": "bow",
+"pos": [
+25,
+28
+],
+"answer": "bo",
+"cands": [
+"bau",
+"bo"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0051": {
+"lang": "en",
+"text": "Her hair was held back with a pink bow.",
+"word": "bow",
+"pos": [
+35,
+38
+],
+"answer": "bo",
+"cands": [
+"bau",
+"bo"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0052": {
+"lang": "en",
+"text": "He made a simple bow and arrows from willow branches.",
+"word": "bow",
+"pos": [
+17,
+20
+],
+"answer": "bo",
+"cands": [
+"bau",
+"bo"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0053": {
+"lang": "en",
+"text": "Can you help me tie this bow on the box?",
+"word": "bow",
+"pos": [
+25,
+28
+],
+"answer": "bo",
+"cands": [
+"bau",
+"bo"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0054": {
+"lang": "en",
+"text": "We live close to the station.",
+"word": "close",
+"pos": [
+8,
+13
+],
+"answer": "s",
+"cands": [
+"s",
+"z"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0055": {
+"lang": "en",
+"text": "The two sisters are very close.",
+"word": "close",
+"pos": [
+25,
+30
+],
+"answer": "s",
+"cands": [
+"s",
+"z"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0056": {
+"lang": "en",
+"text": "That was a close game until the last minute.",
+"word": "close",
+"pos": [
+11,
+16
+],
+"answer": "s",
+"cands": [
+"s",
+"z"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0057": {
+"lang": "en",
+"text": "Stay close to me in the crowd.",
+"word": "close",
+"pos": [
+5,
+10
+],
+"answer": "s",
+"cands": [
+"s",
+"z"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0058": {
+"lang": "en",
+"text": "The final score was very close.",
+"word": "close",
+"pos": [
+25,
+30
+],
+"answer": "s",
+"cands": [
+"s",
+"z"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0059": {
+"lang": "en",
+"text": "His house is close enough to walk to.",
+"word": "close",
+"pos": [
+13,
+18
+],
+"answer": "s",
+"cands": [
+"s",
+"z"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0060": {
+"lang": "en",
+"text": "I strongly object to this proposal.",
+"word": "object",
+"pos": [
+11,
+17
+],
+"answer": "verb",
+"cands": [
+"noun",
+"verb"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0061": {
+"lang": "en",
+"text": "Nobody will object if you leave early today.",
+"word": "object",
+"pos": [
+12,
+18
+],
+"answer": "verb",
+"cands": [
+"noun",
+"verb"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0062": {
+"lang": "en",
+"text": "The neighbours may object to a new factory nearby.",
+"word": "object",
+"pos": [
+19,
+25
+],
+"answer": "verb",
+"cands": [
+"noun",
+"verb"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0063": {
+"lang": "en",
+"text": "She did not object to the change of plans.",
+"word": "object",
+"pos": [
+12,
+18
+],
+"answer": "verb",
+"cands": [
+"noun",
+"verb"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0064": {
+"lang": "en",
+"text": "Several members stood up to object to the vote.",
+"word": "object",
+"pos": [
+28,
+34
+],
+"answer": "verb",
+"cands": [
+"noun",
+"verb"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0065": {
+"lang": "en",
+"text": "Why would anyone object to free lunch?",
+"word": "object",
+"pos": [
+17,
+23
+],
+"answer": "verb",
+"cands": [
+"noun",
+"verb"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0066": {
+"lang": "en",
+"text": "The old farmer was content with his small field.",
+"word": "content",
+"pos": [
+19,
+26
+],
+"answer": "adj",
+"cands": [
+"noun",
+"adj"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0067": {
+"lang": "en",
+"text": "She seemed perfectly content to read by the window.",
+"word": "content",
+"pos": [
+21,
+28
+],
+"answer": "adj",
+"cands": [
+"noun",
+"adj"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0068": {
+"lang": "en",
+"text": "I'm content with a quiet weekend at home.",
+"word": "content",
+"pos": [
+4,
+11
+],
+"answer": "adj",
+"cands": [
+"noun",
+"adj"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0069": {
+"lang": "en",
+"text": "He was not content to remain an assistant forever.",
+"word": "content",
+"pos": [
+11,
+18
+],
+"answer": "adj",
+"cands": [
+"noun",
+"adj"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0070": {
+"lang": "en",
+"text": "The puppy fell asleep, content and full.",
+"word": "content",
+"pos": [
+23,
+30
+],
+"answer": "adj",
+"cands": [
+"noun",
+"adj"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0071": {
+"lang": "en",
+"text": "They were content with the agreement.",
+"word": "content",
+"pos": [
+10,
+17
+],
+"answer": "adj",
+"cands": [
+"noun",
+"adj"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0072": {
+"lang": "en",
+"text": "He would never desert his friends in trouble.",
+"word": "desert",
+"pos": [
+15,
+21
+],
+"answer": "verb",
+"cands": [
+"noun",
+"verb"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0073": {
+"lang": "en",
+"text": "Soldiers who desert their unit can be punished.",
+"word": "desert",
+"pos": [
+13,
+19
+],
+"answer": "verb",
+"cands": [
+"noun",
+"verb"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0074": {
+"lang": "en",
+"text": "Customers began to desert the restaurant after the bad reviews.",
+"word": "desert",
+"pos": [
+19,
+25
+],
+"answer": "verb",
+"cands": [
+"noun",
+"verb"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0075": {
+"lang": "en",
+"text": "Don't desert me now, I need your help.",
+"word": "desert",
+"pos": [
+6,
+12
+],
+"answer": "verb",
+"cands": [
+"noun",
+"verb"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0076": {
+"lang": "en",
+"text": "Her confidence seemed to desert her on stage.",
+"word": "desert",
+"pos": [
+25,
+31
+],
+"answer": "verb",
+"cands": [
+"noun",
+"verb"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0077": {
+"lang": "en",
+"text": "Many young people desert the countryside for the city.",
+"word": "desert",
+"pos": [
+18,
+24
+],
+"answer": "verb",
+"cands": [
+"noun",
+"verb"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0078": {
+"lang": "en",
+"text": "The scientist found a minute crack in the glass.",
+"word": "minute",
+"pos": [
+22,
+28
+],
+"answer": "mynoot",
+"cands": [
+"minit",
+"mynoot"
+],
+"minority": true,
+"hold": true,
+"src": "claude_v2"
+},
+"en2m_0079": {
+"lang": "en",
+"text": "There were only minute differences between the two copies.",
+"word": "minute",
+"pos": [
+16,
+22
+],
+"answer": "mynoot",
+"cands": [
+"minit",
+"mynoot"
+],
+"minority": true,
+"hold": true,
+"src": "claude_v2"
+},
+"en2m_0080": {
+"lang": "en",
+"text": "The insect is so minute that you need a microscope.",
+"word": "minute",
+"pos": [
+17,
+23
+],
+"answer": "mynoot",
+"cands": [
+"minit",
+"mynoot"
+],
+"minority": true,
+"hold": true,
+"src": "claude_v2"
+},
+"en2m_0081": {
+"lang": "en",
+"text": "He checked every minute detail of the contract.",
+"word": "minute",
+"pos": [
+17,
+23
+],
+"answer": "mynoot",
+"cands": [
+"minit",
+"mynoot"
+],
+"minority": true,
+"hold": true,
+"src": "claude_v2"
+},
+"en2m_0082": {
+"lang": "en",
+"text": "Only a minute amount of the chemical is needed.",
+"word": "minute",
+"pos": [
+7,
+13
+],
+"answer": "mynoot",
+"cands": [
+"minit",
+"mynoot"
+],
+"minority": true,
+"hold": true,
+"src": "claude_v2"
+},
+"en2m_0083": {
+"lang": "en",
+"text": "The changes were minute but important.",
+"word": "minute",
+"pos": [
+17,
+23
+],
+"answer": "mynoot",
+"cands": [
+"minit",
+"mynoot"
+],
+"minority": true,
+"hold": true,
+"src": "claude_v2"
+},
+"en2m_0084": {
+"lang": "en",
+"text": "The market sells fresh produce every Saturday.",
+"word": "produce",
+"pos": [
+23,
+30
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0085": {
+"lang": "en",
+"text": "Local produce is cheaper in the summer.",
+"word": "produce",
+"pos": [
+6,
+13
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0086": {
+"lang": "en",
+"text": "She works in the produce section of the supermarket.",
+"word": "produce",
+"pos": [
+17,
+24
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0087": {
+"lang": "en",
+"text": "Farmers brought their produce to town by truck.",
+"word": "produce",
+"pos": [
+22,
+29
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0088": {
+"lang": "en",
+"text": "The restaurant buys organic produce from nearby farms.",
+"word": "produce",
+"pos": [
+28,
+35
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0089": {
+"lang": "en",
+"text": "Keep the produce cool so it does not spoil.",
+"word": "produce",
+"pos": [
+9,
+16
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0090": {
+"lang": "en",
+"text": "They had a loud row about the holiday plans.",
+"word": "row",
+"pos": [
+16,
+19
+],
+"answer": "rau",
+"cands": [
+"roe",
+"rau"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0091": {
+"lang": "en",
+"text": "A row broke out between the two neighbors.",
+"word": "row",
+"pos": [
+2,
+5
+],
+"answer": "rau",
+"cands": [
+"roe",
+"rau"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0092": {
+"lang": "en",
+"text": "The couple's row could be heard from the street.",
+"word": "row",
+"pos": [
+13,
+16
+],
+"answer": "rau",
+"cands": [
+"roe",
+"rau"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0093": {
+"lang": "en",
+"text": "There was a big row over the new rules.",
+"word": "row",
+"pos": [
+16,
+19
+],
+"answer": "rau",
+"cands": [
+"roe",
+"rau"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0094": {
+"lang": "en",
+"text": "I didn't want another row with my brother.",
+"word": "row",
+"pos": [
+22,
+25
+],
+"answer": "rau",
+"cands": [
+"roe",
+"rau"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0095": {
+"lang": "en",
+"text": "The minister's comments started a public row.",
+"word": "row",
+"pos": [
+41,
+44
+],
+"answer": "rau",
+"cands": [
+"roe",
+"rau"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0096": {
+"lang": "en",
+"text": "She wound the scarf around her neck.",
+"word": "wound",
+"pos": [
+4,
+9
+],
+"answer": "wownd",
+"cands": [
+"woond",
+"wownd"
+],
+"minority": true,
+"hold": true,
+"src": "claude_v2"
+},
+"en2m_0097": {
+"lang": "en",
+"text": "He wound the clock before going to bed.",
+"word": "wound",
+"pos": [
+3,
+8
+],
+"answer": "wownd",
+"cands": [
+"woond",
+"wownd"
+],
+"minority": true,
+"hold": true,
+"src": "claude_v2"
+},
+"en2m_0098": {
+"lang": "en",
+"text": "The road wound slowly up the hill.",
+"word": "wound",
+"pos": [
+9,
+14
+],
+"answer": "wownd",
+"cands": [
+"woond",
+"wownd"
+],
+"minority": true,
+"hold": true,
+"src": "claude_v2"
+},
+"en2m_0099": {
+"lang": "en",
+"text": "I wound the thread back onto the spool.",
+"word": "wound",
+"pos": [
+2,
+7
+],
+"answer": "wownd",
+"cands": [
+"woond",
+"wownd"
+],
+"minority": true,
+"hold": true,
+"src": "claude_v2"
+},
+"en2m_0100": {
+"lang": "en",
+"text": "The river wound through the quiet farmland.",
+"word": "wound",
+"pos": [
+10,
+15
+],
+"answer": "wownd",
+"cands": [
+"woond",
+"wownd"
+],
+"minority": true,
+"hold": true,
+"src": "claude_v2"
+},
+"en2m_0101": {
+"lang": "en",
+"text": "He wound the rope tightly around the pole.",
+"word": "wound",
+"pos": [
+3,
+8
+],
+"answer": "wownd",
+"cands": [
+"woond",
+"wownd"
+],
+"minority": true,
+"hold": true,
+"src": "claude_v2"
+},
+"en2m_0102": {
+"lang": "en",
+"text": "There is no use in complaining now.",
+"word": "use",
+"pos": [
+12,
+15
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0104": {
+"lang": "en",
+"text": "What is the use of a phone without a battery?",
+"word": "use",
+"pos": [
+12,
+15
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0105": {
+"lang": "en",
+"text": "The room is for the use of guests only.",
+"word": "use",
+"pos": [
+20,
+23
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0106": {
+"lang": "en",
+"text": "The old bridge is no longer in use.",
+"word": "use",
+"pos": [
+31,
+34
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0107": {
+"lang": "en",
+"text": "The drug is approved for use in children.",
+"word": "use",
+"pos": [
+25,
+28
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0108": {
+"lang": "en",
+"text": "Her father had been an invalid since the war.",
+"word": "invalid",
+"pos": [
+23,
+30
+],
+"answer": "noun",
+"cands": [
+"adj",
+"noun"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0109": {
+"lang": "en",
+"text": "The nurse cared for the invalid day and night.",
+"word": "invalid",
+"pos": [
+24,
+31
+],
+"answer": "noun",
+"cands": [
+"adj",
+"noun"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0110": {
+"lang": "en",
+"text": "He refused to be treated as an invalid after his illness.",
+"word": "invalid",
+"pos": [
+31,
+38
+],
+"answer": "noun",
+"cands": [
+"adj",
+"noun"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0111": {
+"lang": "en",
+"text": "The village built a special chair for the old invalid.",
+"word": "invalid",
+"pos": [
+46,
+53
+],
+"answer": "noun",
+"cands": [
+"adj",
+"noun"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0112": {
+"lang": "en",
+"text": "She spent many years as an invalid in bed.",
+"word": "invalid",
+"pos": [
+27,
+34
+],
+"answer": "noun",
+"cands": [
+"adj",
+"noun"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0113": {
+"lang": "en",
+"text": "They hired a helper for the invalid upstairs.",
+"word": "invalid",
+"pos": [
+28,
+35
+],
+"answer": "noun",
+"cands": [
+"adj",
+"noun"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0114": {
+"lang": "en",
+"text": "The streets were covered with refuse after the market.",
+"word": "refuse",
+"pos": [
+30,
+36
+],
+"answer": "noun",
+"cands": [
+"verb",
+"noun"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0115": {
+"lang": "en",
+"text": "Please do not leave your refuse on the pavement.",
+"word": "refuse",
+"pos": [
+25,
+31
+],
+"answer": "noun",
+"cands": [
+"verb",
+"noun"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0116": {
+"lang": "en",
+"text": "The refuse is collected every Tuesday.",
+"word": "refuse",
+"pos": [
+4,
+10
+],
+"answer": "noun",
+"cands": [
+"verb",
+"noun"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0117": {
+"lang": "en",
+"text": "A pile of refuse blocked the alley.",
+"word": "refuse",
+"pos": [
+10,
+16
+],
+"answer": "noun",
+"cands": [
+"verb",
+"noun"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0118": {
+"lang": "en",
+"text": "The council is building a new refuse center.",
+"word": "refuse",
+"pos": [
+30,
+36
+],
+"answer": "noun",
+"cands": [
+"verb",
+"noun"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0119": {
+"lang": "en",
+"text": "The beach was littered with plastic refuse.",
+"word": "refuse",
+"pos": [
+36,
+42
+],
+"answer": "noun",
+"cands": [
+"verb",
+"noun"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0120": {
+"lang": "en",
+"text": "She dove into the pool without hesitation.",
+"word": "dove",
+"pos": [
+4,
+8
+],
+"answer": "dohv",
+"cands": [
+"duv",
+"dohv"
+],
+"minority": true,
+"hold": true,
+"src": "claude_v2"
+},
+"en2m_0121": {
+"lang": "en",
+"text": "The boy dove off the rock into the sea.",
+"word": "dove",
+"pos": [
+8,
+12
+],
+"answer": "dohv",
+"cands": [
+"duv",
+"dohv"
+],
+"minority": true,
+"hold": true,
+"src": "claude_v2"
+},
+"en2m_0122": {
+"lang": "en",
+"text": "He dove for the ball and caught it.",
+"word": "dove",
+"pos": [
+3,
+7
+],
+"answer": "dohv",
+"cands": [
+"duv",
+"dohv"
+],
+"minority": true,
+"hold": true,
+"src": "claude_v2"
+},
+"en2m_0123": {
+"lang": "en",
+"text": "The bird dove toward the water to catch a fish.",
+"word": "dove",
+"pos": [
+9,
+13
+],
+"answer": "dohv",
+"cands": [
+"duv",
+"dohv"
+],
+"minority": true,
+"hold": true,
+"src": "claude_v2"
+},
+"en2m_0124": {
+"lang": "en",
+"text": "We all dove under the table when the lights went out.",
+"word": "dove",
+"pos": [
+7,
+11
+],
+"answer": "dohv",
+"cands": [
+"duv",
+"dohv"
+],
+"minority": true,
+"hold": true,
+"src": "claude_v2"
+},
+"en2m_0125": {
+"lang": "en",
+"text": "The goalkeeper dove to the left and saved the shot.",
+"word": "dove",
+"pos": [
+15,
+19
+],
+"answer": "dohv",
+"cands": [
+"duv",
+"dohv"
+],
+"minority": true,
+"hold": true,
+"src": "claude_v2"
+},
+"en2m_0126": {
+"lang": "en",
+"text": "The sow was lying in the mud with her piglets.",
+"word": "sow",
+"pos": [
+4,
+7
+],
+"answer": "sau",
+"cands": [
+"so",
+"sau"
+],
+"minority": true,
+"hold": true,
+"src": "claude_v2"
+},
+"en2m_0127": {
+"lang": "en",
+"text": "The farmer bought a sow and ten piglets.",
+"word": "sow",
+"pos": [
+20,
+23
+],
+"answer": "sau",
+"cands": [
+"so",
+"sau"
+],
+"minority": true,
+"hold": true,
+"src": "claude_v2"
+},
+"en2m_0128": {
+"lang": "en",
+"text": "A big sow escaped from the pen this morning.",
+"word": "sow",
+"pos": [
+6,
+9
+],
+"answer": "sau",
+"cands": [
+"so",
+"sau"
+],
+"minority": true,
+"hold": true,
+"src": "claude_v2"
+},
+"en2m_0129": {
+"lang": "en",
+"text": "The sow gave birth to twelve piglets.",
+"word": "sow",
+"pos": [
+4,
+7
+],
+"answer": "sau",
+"cands": [
+"so",
+"sau"
+],
+"minority": true,
+"hold": true,
+"src": "claude_v2"
+},
+"en2m_0130": {
+"lang": "en",
+"text": "The old sow followed the farmer around the yard.",
+"word": "sow",
+"pos": [
+8,
+11
+],
+"answer": "sau",
+"cands": [
+"so",
+"sau"
+],
+"minority": true,
+"hold": true,
+"src": "claude_v2"
+},
+"en2m_0131": {
+"lang": "en",
+"text": "The sow grunted loudly at the fence.",
+"word": "sow",
+"pos": [
+4,
+7
+],
+"answer": "sau",
+"cands": [
+"so",
+"sau"
+],
+"minority": true,
+"hold": true,
+"src": "claude_v2"
+},
+"en2m_0132": {
+"lang": "en",
+"text": "Three does were feeding at the edge of the forest.",
+"word": "does",
+"pos": [
+6,
+10
+],
+"answer": "doze",
+"cands": [
+"duz",
+"doze"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0133": {
+"lang": "en",
+"text": "The does and their fawns crossed the meadow.",
+"word": "does",
+"pos": [
+4,
+8
+],
+"answer": "doze",
+"cands": [
+"duz",
+"doze"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0134": {
+"lang": "en",
+"text": "Hunters are not allowed to shoot does in this area.",
+"word": "does",
+"pos": [
+33,
+37
+],
+"answer": "doze",
+"cands": [
+"duz",
+"doze"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0135": {
+"lang": "en",
+"text": "We saw two does drinking at the stream.",
+"word": "does",
+"pos": [
+11,
+15
+],
+"answer": "doze",
+"cands": [
+"duz",
+"doze"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0136": {
+"lang": "en",
+"text": "The does ran away when the dog barked.",
+"word": "does",
+"pos": [
+4,
+8
+],
+"answer": "doze",
+"cands": [
+"duz",
+"doze"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0137": {
+"lang": "en",
+"text": "The park ranger counted twenty does this spring.",
+"word": "does",
+"pos": [
+31,
+35
+],
+"answer": "doze",
+"cands": [
+"duz",
+"doze"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0138": {
+"lang": "en",
+"text": "Please excuse my late reply.",
+"word": "excuse",
+"pos": [
+7,
+13
+],
+"answer": "verb",
+"cands": [
+"noun",
+"verb"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0139": {
+"lang": "en",
+"text": "Nothing can excuse cheating on the exam.",
+"word": "excuse",
+"pos": [
+12,
+18
+],
+"answer": "verb",
+"cands": [
+"noun",
+"verb"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0140": {
+"lang": "en",
+"text": "Will you excuse me while I take this call?",
+"word": "excuse",
+"pos": [
+9,
+15
+],
+"answer": "verb",
+"cands": [
+"noun",
+"verb"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0141": {
+"lang": "en",
+"text": "The teacher may excuse students who are ill.",
+"word": "excuse",
+"pos": [
+16,
+22
+],
+"answer": "verb",
+"cands": [
+"noun",
+"verb"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0142": {
+"lang": "en",
+"text": "Excuse me for interrupting your meeting.",
+"word": "excuse",
+"pos": [
+0,
+6
+],
+"answer": "verb",
+"cands": [
+"noun",
+"verb"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0143": {
+"lang": "en",
+"text": "I will excuse you this time, but don't do it again.",
+"word": "excuse",
+"pos": [
+7,
+13
+],
+"answer": "verb",
+"cands": [
+"noun",
+"verb"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0144": {
+"lang": "en",
+"text": "The new hall will house the town's art collection.",
+"word": "house",
+"pos": [
+18,
+23
+],
+"answer": "verb",
+"cands": [
+"noun",
+"verb"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0145": {
+"lang": "en",
+"text": "The center can house two hundred people in an emergency.",
+"word": "house",
+"pos": [
+15,
+20
+],
+"answer": "verb",
+"cands": [
+"noun",
+"verb"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0146": {
+"lang": "en",
+"text": "They converted the barn to house farm machinery.",
+"word": "house",
+"pos": [
+27,
+32
+],
+"answer": "verb",
+"cands": [
+"noun",
+"verb"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0147": {
+"lang": "en",
+"text": "The library will house rare manuscripts.",
+"word": "house",
+"pos": [
+17,
+22
+],
+"answer": "verb",
+"cands": [
+"noun",
+"verb"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0148": {
+"lang": "en",
+"text": "This building used to house the city government.",
+"word": "house",
+"pos": [
+22,
+27
+],
+"answer": "verb",
+"cands": [
+"noun",
+"verb"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0149": {
+"lang": "en",
+"text": "The shelter can house fifty dogs.",
+"word": "house",
+"pos": [
+16,
+21
+],
+"answer": "verb",
+"cands": [
+"noun",
+"verb"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0150": {
+"lang": "en",
+"text": "Please separate the paper from the plastic.",
+"word": "separate",
+"pos": [
+7,
+15
+],
+"answer": "verb",
+"cands": [
+"adj",
+"verb"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0151": {
+"lang": "en",
+"text": "The referee tried to separate the two players.",
+"word": "separate",
+"pos": [
+21,
+29
+],
+"answer": "verb",
+"cands": [
+"adj",
+"verb"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0152": {
+"lang": "en",
+"text": "A thin wall is all that will separate our desks.",
+"word": "separate",
+"pos": [
+29,
+37
+],
+"answer": "verb",
+"cands": [
+"adj",
+"verb"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0153": {
+"lang": "en",
+"text": "You should separate the yolk from the white.",
+"word": "separate",
+"pos": [
+11,
+19
+],
+"answer": "verb",
+"cands": [
+"adj",
+"verb"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0154": {
+"lang": "en",
+"text": "The parents decided to separate last year.",
+"word": "separate",
+"pos": [
+23,
+31
+],
+"answer": "verb",
+"cands": [
+"adj",
+"verb"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0155": {
+"lang": "en",
+"text": "Use a sieve to separate the seeds from the juice.",
+"word": "separate",
+"pos": [
+15,
+23
+],
+"answer": "verb",
+"cands": [
+"adj",
+"verb"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0156": {
+"lang": "en",
+"text": "Can you estimate the cost of the repairs?",
+"word": "estimate",
+"pos": [
+8,
+16
+],
+"answer": "verb",
+"cands": [
+"noun",
+"verb"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0157": {
+"lang": "en",
+"text": "Officials estimate that thousands were affected.",
+"word": "estimate",
+"pos": [
+10,
+18
+],
+"answer": "verb",
+"cands": [
+"noun",
+"verb"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0158": {
+"lang": "en",
+"text": "It is difficult to estimate how many birds live here.",
+"word": "estimate",
+"pos": [
+19,
+27
+],
+"answer": "verb",
+"cands": [
+"noun",
+"verb"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0159": {
+"lang": "en",
+"text": "I would estimate the room is about five meters wide.",
+"word": "estimate",
+"pos": [
+8,
+16
+],
+"answer": "verb",
+"cands": [
+"noun",
+"verb"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0160": {
+"lang": "en",
+"text": "Engineers estimate the bridge will last fifty years.",
+"word": "estimate",
+"pos": [
+10,
+18
+],
+"answer": "verb",
+"cands": [
+"noun",
+"verb"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0161": {
+"lang": "en",
+"text": "Try to estimate the weight of this box.",
+"word": "estimate",
+"pos": [
+7,
+15
+],
+"answer": "verb",
+"cands": [
+"noun",
+"verb"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0162": {
+"lang": "en",
+"text": "He hopes to graduate from medical school next year.",
+"word": "graduate",
+"pos": [
+12,
+20
+],
+"answer": "verb",
+"cands": [
+"noun",
+"verb"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0163": {
+"lang": "en",
+"text": "She will graduate with a degree in history.",
+"word": "graduate",
+"pos": [
+9,
+17
+],
+"answer": "verb",
+"cands": [
+"noun",
+"verb"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0164": {
+"lang": "en",
+"text": "Most of my classmates will graduate in June.",
+"word": "graduate",
+"pos": [
+27,
+35
+],
+"answer": "verb",
+"cands": [
+"noun",
+"verb"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0165": {
+"lang": "en",
+"text": "They worked hard to graduate on time.",
+"word": "graduate",
+"pos": [
+20,
+28
+],
+"answer": "verb",
+"cands": [
+"noun",
+"verb"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0166": {
+"lang": "en",
+"text": "Did your sister graduate from university?",
+"word": "graduate",
+"pos": [
+16,
+24
+],
+"answer": "verb",
+"cands": [
+"noun",
+"verb"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0167": {
+"lang": "en",
+"text": "Only a few students graduate with honors.",
+"word": "graduate",
+"pos": [
+20,
+28
+],
+"answer": "verb",
+"cands": [
+"noun",
+"verb"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0168": {
+"lang": "en",
+"text": "She emailed her resume to three companies.",
+"word": "resume",
+"pos": [
+16,
+22
+],
+"answer": "noun",
+"cands": [
+"verb",
+"noun"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0169": {
+"lang": "en",
+"text": "Your resume should be no longer than one page.",
+"word": "resume",
+"pos": [
+5,
+11
+],
+"answer": "noun",
+"cands": [
+"verb",
+"noun"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0170": {
+"lang": "en",
+"text": "He added his volunteer work to his resume.",
+"word": "resume",
+"pos": [
+35,
+41
+],
+"answer": "noun",
+"cands": [
+"verb",
+"noun"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0171": {
+"lang": "en",
+"text": "The manager asked for a copy of my resume.",
+"word": "resume",
+"pos": [
+35,
+41
+],
+"answer": "noun",
+"cands": [
+"verb",
+"noun"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0172": {
+"lang": "en",
+"text": "A clear resume makes a good first impression.",
+"word": "resume",
+"pos": [
+8,
+14
+],
+"answer": "noun",
+"cands": [
+"verb",
+"noun"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0173": {
+"lang": "en",
+"text": "I need help writing my resume.",
+"word": "resume",
+"pos": [
+23,
+29
+],
+"answer": "noun",
+"cands": [
+"verb",
+"noun"
+],
+"minority": true,
+"hold": false,
+"src": "claude_v2"
+},
+"en2m_0174": {
+"lang": "en",
+"text": "The graph has two axes labeled time and distance.",
+"word": "axes",
+"pos": [
+18,
+22
+],
+"answer": "axeez",
+"cands": [
+"axiz",
+"axeez"
+],
+"minority": true,
+"hold": true,
+"src": "claude_v2"
+},
+"en2m_0175": {
+"lang": "en",
+"text": "Draw the x and y axes before plotting the points.",
+"word": "axes",
+"pos": [
+17,
+21
+],
+"answer": "axeez",
+"cands": [
+"axiz",
+"axeez"
+],
+"minority": true,
+"hold": true,
+"src": "claude_v2"
+},
+"en2m_0176": {
+"lang": "en",
+"text": "The planet rotates around one of its axes.",
+"word": "axes",
+"pos": [
+37,
+41
+],
+"answer": "axeez",
+"cands": [
+"axiz",
+"axeez"
+],
+"minority": true,
+"hold": true,
+"src": "claude_v2"
+},
+"en2m_0177": {
+"lang": "en",
+"text": "The two axes meet at the origin.",
+"word": "axes",
+"pos": [
+8,
+12
+],
+"answer": "axeez",
+"cands": [
+"axiz",
+"axeez"
+],
+"minority": true,
+"hold": true,
+"src": "claude_v2"
+},
+"en2m_0178": {
+"lang": "en",
+"text": "Label both axes clearly on your chart.",
+"word": "axes",
+"pos": [
+11,
+15
+],
+"answer": "axeez",
+"cands": [
+"axiz",
+"axeez"
+],
+"minority": true,
+"hold": true,
+"src": "claude_v2"
+},
+"en2m_0179": {
+"lang": "en",
+"text": "The model can rotate around three axes.",
+"word": "axes",
+"pos": [
+34,
+38
+],
+"answer": "axeez",
+"cands": [
+"axiz",
+"axeez"
+],
+"minority": true,
+"hold": true,
+"src": "claude_v2"
+},
+"en2_axes_axiz_0": {
+"lang": "en",
+"text": "Their development and perfection achieved is remarkable, in developing yokes, palms, axes, snakes, smiling caritas and monumental clay sculptures.",
+"word": "axes",
+"pos": [
+85,
+89
+],
+"answer": "axiz",
+"cands": [
+"axiz",
+"axeez"
+],
+"minority": false,
+"hold": true,
+"src": "whd"
+},
+"en2_axes_axiz_1": {
+"lang": "en",
+"text": "The axes, dated from the first through nineteenth centuries, are considered particularly characteristic of the Tsebelda culture.",
+"word": "axes",
+"pos": [
+4,
+8
+],
+"answer": "axiz",
+"cands": [
+"axiz",
+"axeez"
+],
+"minority": false,
+"hold": true,
+"src": "whd"
+},
+"en2_axes_axiz_2": {
+"lang": "en",
+"text": "Their training involves the use of daggers, swords, and axes, conducted exclusively outdoors and in all weather conditions.",
+"word": "axes",
+"pos": [
+56,
+60
+],
+"answer": "axiz",
+"cands": [
+"axiz",
+"axeez"
+],
+"minority": false,
+"hold": true,
+"src": "whd"
+},
+"en2_axes_axiz_3": {
+"lang": "en",
+"text": "Nevertheless, many weapons such as swords, spears, lances, battle-axes, scimitars, shields, crossbows, and arrowheads have been found in the pits.",
+"word": "axes",
+"pos": [
+66,
+70
+],
+"answer": "axiz",
+"cands": [
+"axiz",
+"axeez"
+],
+"minority": false,
+"hold": true,
+"src": "whd"
+},
+"en2_axes_axiz_4": {
+"lang": "en",
+"text": "Included are chainmail armor, helmets, scimitars, yataghans, daggers, matchlocks, lances, pistols, shields, axes, and spears.",
+"word": "axes",
+"pos": [
+108,
+112
+],
+"answer": "axiz",
+"cands": [
+"axiz",
+"axeez"
+],
+"minority": false,
+"hold": true,
+"src": "whd"
+},
+"en2_axes_axiz_5": {
+"lang": "en",
+"text": "This design would be very effective against the standard weapons of the Asia Minor armies: swords, spears, and light axes.",
+"word": "axes",
+"pos": [
+117,
+121
+],
+"answer": "axiz",
+"cands": [
+"axiz",
+"axeez"
+],
+"minority": false,
+"hold": true,
+"src": "whd"
+},
+"en2_axes_axiz_6": {
+"lang": "en",
+"text": "Elsewhere at the site, many more stone tools were discovered, including implements such as axes, atlatl components, pestles, and celts.",
+"word": "axes",
+"pos": [
+91,
+95
+],
+"answer": "axiz",
+"cands": [
+"axiz",
+"axeez"
+],
+"minority": false,
+"hold": true,
+"src": "whd"
+},
+"en2_axes_axiz_7": {
+"lang": "en",
+"text": "Finds included axes, spearheads, arrowheads, scapers, blades, and anvils, mostly of local shale but some also of obsidian.",
+"word": "axes",
+"pos": [
+15,
+19
+],
+"answer": "axiz",
+"cands": [
+"axiz",
+"axeez"
+],
+"minority": false,
+"hold": true,
+"src": "whd"
+},
+"en2_axes_axiz_8": {
+"lang": "en",
+"text": "Red Sanders Anti-Smuggling Task Force DIG Kantha Rao said that the \"smugglers\" attacked the team with sickles, rods and axes.",
+"word": "axes",
+"pos": [
+120,
+124
+],
+"answer": "axiz",
+"cands": [
+"axiz",
+"axeez"
+],
+"minority": false,
+"hold": true,
+"src": "whd"
+},
+"en2_bass_base_0": {
+"lang": "en",
+"text": "Kona guitars are included in the Acoustic, Electric and Electric Bass Guitar Starter Packs For Dummies.",
+"word": "bass",
+"pos": [
+65,
+69
+],
+"answer": "base",
+"cands": [
+"base",
+"fish"
+],
+"minority": false,
+"hold": true,
+"src": "whd"
+},
+"en2_bass_base_1": {
+"lang": "en",
+"text": "The show's star, Paul Sand, portrayed Robert Dreyfuss, who played double bass, while Steve Landesberg played violinist Fred Meyerbach.",
+"word": "bass",
+"pos": [
+73,
+77
+],
+"answer": "base",
+"cands": [
+"base",
+"fish"
+],
+"minority": false,
+"hold": true,
+"src": "whd"
+},
+"en2_bass_base_2": {
+"lang": "en",
+"text": "Later they were joined by Hans Castro (drums) and Raphael Vaz (bass guitar), forming a four-piece.",
+"word": "bass",
+"pos": [
+63,
+67
+],
+"answer": "base",
+"cands": [
+"base",
+"fish"
+],
+"minority": false,
+"hold": true,
+"src": "whd"
+},
+"en2_bass_base_3": {
+"lang": "en",
+"text": "The soundtrack also featured performances by Sargent's brother Lee and by Radiohead bass player Colin Greenwood.",
+"word": "bass",
+"pos": [
+84,
+88
+],
+"answer": "base",
+"cands": [
+"base",
+"fish"
+],
+"minority": false,
+"hold": true,
+"src": "whd"
+},
+"en2_bass_base_4": {
+"lang": "en",
+"text": "The guitars, bass, and drums gradually fade out, leaving only the repeated violin and cello motif.",
+"word": "bass",
+"pos": [
+13,
+17
+],
+"answer": "base",
+"cands": [
+"base",
+"fish"
+],
+"minority": false,
+"hold": true,
+"src": "whd"
+},
+"en2_bass_base_5": {
+"lang": "en",
+"text": "After the Northern Lights, Underwood went on to form The Rosemary Beads, with Little (bass) and Cam Munachen (drums).",
+"word": "bass",
+"pos": [
+86,
+90
+],
+"answer": "base",
+"cands": [
+"base",
+"fish"
+],
+"minority": false,
+"hold": true,
+"src": "whd"
+},
+"en2_bass_base_6": {
+"lang": "en",
+"text": "There are trumpets and trombones in both series and the Meister series also includes a flugelhorn and bass trumpet.",
+"word": "bass",
+"pos": [
+102,
+106
+],
+"answer": "base",
+"cands": [
+"base",
+"fish"
+],
+"minority": false,
+"hold": true,
+"src": "whd"
+},
+"en2_bass_base_7": {
+"lang": "en",
+"text": "The vocals for us went hand-in-hand with the distorted bass guitar, distorted guitars and hyper-fast drumming\".",
+"word": "bass",
+"pos": [
+55,
+59
+],
+"answer": "base",
+"cands": [
+"base",
+"fish"
+],
+"minority": false,
+"hold": true,
+"src": "whd"
+},
+"en2_bass_base_8": {
+"lang": "en",
+"text": "The bass guitar on the song is played by Klaus Voormann, a friend of The Beatles from their Hamburg days.",
+"word": "bass",
+"pos": [
+4,
+8
+],
+"answer": "base",
+"cands": [
+"base",
+"fish"
+],
+"minority": false,
+"hold": true,
+"src": "whd"
+},
+"en2_bass_base_9": {
+"lang": "en",
+"text": "Its members were Thomas Cohen (vocals), Bradley Baker (machines, press), Samuel Kilcoyne (keyboards), Huw Webb (bass), and Melissa Rigby (drums).",
+"word": "bass",
+"pos": [
+112,
+116
+],
+"answer": "base",
+"cands": [
+"base",
+"fish"
+],
+"minority": false,
+"hold": true,
+"src": "whd"
+},
+"en2_bow_bau_0": {
+"lang": "en",
+"text": "Bush incorporates new technologies including improved propeller and bulbous bow designs, a reduced Radar cross-section and electronic and environmental upgrades.",
+"word": "bow",
+"pos": [
+76,
+79
+],
+"answer": "bau",
+"cands": [
+"bau",
+"bo"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_bow_bau_1": {
+"lang": "en",
+"text": "She returned to St. John's, where a temporary wooden bow was fitted until permanent repairs were made in Scotland.",
+"word": "bow",
+"pos": [
+53,
+56
+],
+"answer": "bau",
+"cands": [
+"bau",
+"bo"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_bow_bau_2": {
+"lang": "en",
+"text": "Most notably, she was torpedoed in the starboard bow by a German submarine, whilst in convoy in the Mediterranean.",
+"word": "bow",
+"pos": [
+49,
+52
+],
+"answer": "bau",
+"cands": [
+"bau",
+"bo"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_bow_bau_3": {
+"lang": "en",
+"text": "They also have a retractable bowsprit that extends a spinnaker-genoa \"kite\" two or more meters beyond the bow.",
+"word": "bow",
+"pos": [
+106,
+109
+],
+"answer": "bau",
+"cands": [
+"bau",
+"bo"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_bow_bau_4": {
+"lang": "en",
+"text": "The collision killed one crewman aboard the French ship and Keppel's bow penetrated all the way to Jaguar's midline.",
+"word": "bow",
+"pos": [
+69,
+72
+],
+"answer": "bau",
+"cands": [
+"bau",
+"bo"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_bow_bau_5": {
+"lang": "en",
+"text": "One German infantryman rescuer noted the grotesquerie of the eyeball dangling down Bongartz's cheek during the bow.",
+"word": "bow",
+"pos": [
+111,
+114
+],
+"answer": "bau",
+"cands": [
+"bau",
+"bo"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_bow_bau_6": {
+"lang": "en",
+"text": "The New York Herald-Tribune called the Gable-Kerr pairing \"ideal\", saying \"she made an impressive bow on the U.S. screen.\"",
+"word": "bow",
+"pos": [
+98,
+101
+],
+"answer": "bau",
+"cands": [
+"bau",
+"bo"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_bow_bau_7": {
+"lang": "en",
+"text": "Constellation again sailed ahead of L'Insurgente, reversing course to cross her bow and rake her a second time.",
+"word": "bow",
+"pos": [
+80,
+83
+],
+"answer": "bau",
+"cands": [
+"bau",
+"bo"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_bow_bau_8": {
+"lang": "en",
+"text": "Skandi Neptune has two stern azimuth thrusters, a retractable forward azimuth thruster and two bow tunnel thrusters.",
+"word": "bow",
+"pos": [
+95,
+98
+],
+"answer": "bau",
+"cands": [
+"bau",
+"bo"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_close_s_0": {
+"lang": "en",
+"text": "Ezio also finds out that his close allies, Luis Santangel and Raphael Sanchez, are in fact Assassins themselves.",
+"word": "close",
+"pos": [
+29,
+34
+],
+"answer": "s",
+"cands": [
+"s",
+"z"
+],
+"minority": true,
+"hold": false,
+"src": "whd"
+},
+"en2_close_s_1": {
+"lang": "en",
+"text": "Trump has a close relationship with her father, who has publicly expressed his admiration for her on several occasions.",
+"word": "close",
+"pos": [
+12,
+17
+],
+"answer": "s",
+"cands": [
+"s",
+"z"
+],
+"minority": true,
+"hold": false,
+"src": "whd"
+},
+"en2_close_s_2": {
+"lang": "en",
+"text": "Single molecule localization with super-resolution imaging techniques requires the specific delivery of fluorophores into close proximity with a target protein.",
+"word": "close",
+"pos": [
+122,
+127
+],
+"answer": "s",
+"cands": [
+"s",
+"z"
+],
+"minority": true,
+"hold": false,
+"src": "whd"
+},
+"en2_close_s_3": {
+"lang": "en",
+"text": "These EBRs are made with the intention of carrying out both designated marksman and close combat roles in combat.",
+"word": "close",
+"pos": [
+84,
+89
+],
+"answer": "s",
+"cands": [
+"s",
+"z"
+],
+"minority": true,
+"hold": false,
+"src": "whd"
+},
+"en2_close_s_4": {
+"lang": "en",
+"text": "During sexual reproduction, mating with a close relative (inbreeding) often leads to inbreeding depression.",
+"word": "close",
+"pos": [
+42,
+47
+],
+"answer": "s",
+"cands": [
+"s",
+"z"
+],
+"minority": true,
+"hold": false,
+"src": "whd"
+},
+"en2_close_s_5": {
+"lang": "en",
+"text": "His death went unnoticed in the media and was quietly buried in Islamabad with close family members attending his funeral.",
+"word": "close",
+"pos": [
+79,
+84
+],
+"answer": "s",
+"cands": [
+"s",
+"z"
+],
+"minority": true,
+"hold": false,
+"src": "whd"
+},
+"en2_close_s_6": {
+"lang": "en",
+"text": "Though data on Pamigua is extremely limited, the relationship seems to be fairly close: Tinigua manaxai 'walk!'",
+"word": "close",
+"pos": [
+81,
+86
+],
+"answer": "s",
+"cands": [
+"s",
+"z"
+],
+"minority": true,
+"hold": false,
+"src": "whd"
+},
+"en2_close_s_7": {
+"lang": "en",
+"text": "In this round of rioting, Musa Makaniki, a close disciple of Maitatsine, emerged as a leader and Marwa's successor.",
+"word": "close",
+"pos": [
+43,
+48
+],
+"answer": "s",
+"cands": [
+"s",
+"z"
+],
+"minority": true,
+"hold": false,
+"src": "whd"
+},
+"en2_close_s_8": {
+"lang": "en",
+"text": "He has reconciled himself to her dedication to Christ and she reassures him that they will always be close \"companions\".",
+"word": "close",
+"pos": [
+101,
+106
+],
+"answer": "s",
+"cands": [
+"s",
+"z"
+],
+"minority": true,
+"hold": false,
+"src": "whd"
+},
+"en2_close_s_9": {
+"lang": "en",
+"text": "Ai even says though Yuichiro will not admit it, Mina and he are very close and share a strong friendship.",
+"word": "close",
+"pos": [
+69,
+74
+],
+"answer": "s",
+"cands": [
+"s",
+"z"
+],
+"minority": true,
+"hold": false,
+"src": "whd"
+},
+"en2_content_noun_0": {
+"lang": "en",
+"text": "However, others respond to this critique by arguing that precisely such content is representative of the global pop-cultural scene.",
+"word": "content",
+"pos": [
+72,
+79
+],
+"answer": "noun",
+"cands": [
+"noun",
+"adj"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_content_noun_1": {
+"lang": "en",
+"text": "People (\"users\") use Web browsers, media players, assistive technologies or other \"user agents\" to get and interact with the content.\"",
+"word": "content",
+"pos": [
+125,
+132
+],
+"answer": "noun",
+"cands": [
+"noun",
+"adj"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_content_noun_2": {
+"lang": "en",
+"text": "The site features up to the minute previews, features, interviews as well as a wide variety of multimedia content.",
+"word": "content",
+"pos": [
+106,
+113
+],
+"answer": "noun",
+"cands": [
+"noun",
+"adj"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_content_noun_3": {
+"lang": "en",
+"text": "Forms of content, also known as material forms, include the assemblage of human and nonhuman bodies, actions, and reactions.",
+"word": "content",
+"pos": [
+9,
+16
+],
+"answer": "noun",
+"cands": [
+"noun",
+"adj"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_content_noun_4": {
+"lang": "en",
+"text": "Salmon maintains that co-designative proper names are inter-substitutable with preservation of semantic content.",
+"word": "content",
+"pos": [
+104,
+111
+],
+"answer": "noun",
+"cands": [
+"noun",
+"adj"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_content_noun_5": {
+"lang": "en",
+"text": "The Century brand with a high speech content ratio became successful, with other stations subsequently launched in Nottingham and Salford.",
+"word": "content",
+"pos": [
+37,
+44
+],
+"answer": "noun",
+"cands": [
+"noun",
+"adj"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_content_noun_6": {
+"lang": "en",
+"text": "The Baba Yaga downloadable content sees Lara investigating a disturbance within the Soviet mining facility.",
+"word": "content",
+"pos": [
+27,
+34
+],
+"answer": "noun",
+"cands": [
+"noun",
+"adj"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_content_noun_7": {
+"lang": "en",
+"text": "UWE follows the separation of concerns building separate models for requirements, content, hypertext, presentation, process, adaptivity and architecture.",
+"word": "content",
+"pos": [
+82,
+89
+],
+"answer": "noun",
+"cands": [
+"noun",
+"adj"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_content_noun_8": {
+"lang": "en",
+"text": "The maturity of service-oriented-architectures has fueled an ecosystem of ajax-based gadgets (widgets) that encapsulate content services (REST, WSDL).",
+"word": "content",
+"pos": [
+120,
+127
+],
+"answer": "noun",
+"cands": [
+"noun",
+"adj"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_content_noun_9": {
+"lang": "en",
+"text": "Christmas beer is another type of winter warmer, similarly strong in alcohol content and usually spiced.",
+"word": "content",
+"pos": [
+77,
+84
+],
+"answer": "noun",
+"cands": [
+"noun",
+"adj"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_desert_noun_0": {
+"lang": "en",
+"text": "The cisterns were kept secret and were one of the reasons the Nabataea were able to thrive in the desert.",
+"word": "desert",
+"pos": [
+98,
+104
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_desert_noun_1": {
+"lang": "en",
+"text": "Nuclear weapons testing has caused desert mosquitoes to grow into giant monsters, in a plot resembling Them!",
+"word": "desert",
+"pos": [
+35,
+41
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_desert_noun_2": {
+"lang": "en",
+"text": "He has flown combat missions in Operations Desert Storm, Deny Flight, Northern Watch and Southern Watch.",
+"word": "desert",
+"pos": [
+43,
+49
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_desert_noun_3": {
+"lang": "en",
+"text": "In the United States, it inhabits the Chihuahuan Desert community from southern Arizona to the Big Bend region of Texas.",
+"word": "desert",
+"pos": [
+49,
+55
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_desert_noun_4": {
+"lang": "en",
+"text": "When a helicopter flies low to the ground in desert environments, sand striking the rotor blade can cause erosion.",
+"word": "desert",
+"pos": [
+45,
+51
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_desert_noun_5": {
+"lang": "en",
+"text": "The boundaries of the Bright Lands are contained entirely within the bounds of the Bright Desert.",
+"word": "desert",
+"pos": [
+90,
+96
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_desert_noun_6": {
+"lang": "en",
+"text": "The terrain in the park is now a transition zone between the low desert plateaus and the Rocky Mountains.",
+"word": "desert",
+"pos": [
+65,
+71
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_desert_noun_7": {
+"lang": "en",
+"text": "They are in the Mojave Desert east of Lanfair Valley near the Colorado River and Nevada border.",
+"word": "desert",
+"pos": [
+23,
+29
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_desert_noun_8": {
+"lang": "en",
+"text": "It is native to the Mojave Desert straddling the border between California and Nevada.",
+"word": "desert",
+"pos": [
+27,
+33
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_desert_noun_9": {
+"lang": "en",
+"text": "Some mountain ranges rise up from the desert and receive more rainfall and cooler temperatures.",
+"word": "desert",
+"pos": [
+38,
+44
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_dove_duv_0": {
+"lang": "en",
+"text": "Costoanachis rudyi is a species of sea snail, a marine gastropod mollusk in the family Columbellidae, the dove snails.",
+"word": "dove",
+"pos": [
+106,
+110
+],
+"answer": "duv",
+"cands": [
+"duv",
+"dohv"
+],
+"minority": false,
+"hold": true,
+"src": "whd"
+},
+"en2_dove_duv_1": {
+"lang": "en",
+"text": "Gugutka (Bulgarian: Гугутка, \"collared dove\", Turkish: Arnavutkoy) is a village in southernmost Bulgaria, part of Ivaylovgrad municipality, Haskovo Province.",
+"word": "dove",
+"pos": [
+46,
+50
+],
+"answer": "duv",
+"cands": [
+"duv",
+"dohv"
+],
+"minority": false,
+"hold": true,
+"src": "whd"
+},
+"en2_dove_duv_2": {
+"lang": "en",
+"text": "Costoanachis hotessieriana is a species of sea snail, a marine gastropod mollusk in the family Columbellidae, the dove snails.",
+"word": "dove",
+"pos": [
+114,
+118
+],
+"answer": "duv",
+"cands": [
+"duv",
+"dohv"
+],
+"minority": false,
+"hold": true,
+"src": "whd"
+},
+"en2_dove_duv_3": {
+"lang": "en",
+"text": "Avian life includes the corncrake, red-throated diver, rock dove, kittiwake, tystie, Atlantic puffin, goldeneye, golden eagle and white-tailed sea eagle.",
+"word": "dove",
+"pos": [
+60,
+64
+],
+"answer": "duv",
+"cands": [
+"duv",
+"dohv"
+],
+"minority": false,
+"hold": true,
+"src": "whd"
+},
+"en2_dove_duv_4": {
+"lang": "en",
+"text": "Mitrella africana is a species of sea snail, a marine gastropod mollusk in the family Columbellidae, the dove snails.",
+"word": "dove",
+"pos": [
+105,
+109
+],
+"answer": "duv",
+"cands": [
+"duv",
+"dohv"
+],
+"minority": false,
+"hold": true,
+"src": "whd"
+},
+"en2_dove_duv_5": {
+"lang": "en",
+"text": "Several professional hunting lodges operate in the Alamos area attracting dove hunters from various areas of the world.",
+"word": "dove",
+"pos": [
+74,
+78
+],
+"answer": "duv",
+"cands": [
+"duv",
+"dohv"
+],
+"minority": false,
+"hold": true,
+"src": "whd"
+},
+"en2_dove_duv_6": {
+"lang": "en",
+"text": "This neighbourhood became the Birds area, with all the streets named after birds (e.g. Linnet Way, Hawk Drive, Dove Road).",
+"word": "dove",
+"pos": [
+111,
+115
+],
+"answer": "duv",
+"cands": [
+"duv",
+"dohv"
+],
+"minority": false,
+"hold": true,
+"src": "whd"
+},
+"en2_dove_duv_7": {
+"lang": "en",
+"text": "The doves begin to fly off one by one, and eventually, only one dove remains: the one representing Nippon Television.",
+"word": "dove",
+"pos": [
+64,
+68
+],
+"answer": "duv",
+"cands": [
+"duv",
+"dohv"
+],
+"minority": false,
+"hold": true,
+"src": "whd"
+},
+"en2_dove_duv_8": {
+"lang": "en",
+"text": "The double parallelogram fingerboard inlays, the two doves on the bridge, and the dove on the pickguard are mother-of-pearl.",
+"word": "dove",
+"pos": [
+82,
+86
+],
+"answer": "duv",
+"cands": [
+"duv",
+"dohv"
+],
+"minority": false,
+"hold": true,
+"src": "whd"
+},
+"en2_dove_duv_9": {
+"lang": "en",
+"text": "Mitrella dupreezae is a species of sea snail, a marine gastropod mollusk in the family Columbellidae, the dove snails.",
+"word": "dove",
+"pos": [
+106,
+110
+],
+"answer": "duv",
+"cands": [
+"duv",
+"dohv"
+],
+"minority": false,
+"hold": true,
+"src": "whd"
+},
+"en2_estimate_noun_0": {
+"lang": "en",
+"text": "The patrol brought back to the Union Army commanders an exaggerated estimate of Confederate strength at Fairfax Court House.",
+"word": "estimate",
+"pos": [
+68,
+76
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_estimate_noun_1": {
+"lang": "en",
+"text": "Other sources estimate upwards of two thousand congregations, with a large presence in the State of Andhra Pradesh.",
+"word": "estimate",
+"pos": [
+14,
+22
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_estimate_noun_2": {
+"lang": "en",
+"text": "In personal dive computers, they produce a real-time estimate of decompression status and display it for the diver.",
+"word": "estimate",
+"pos": [
+53,
+61
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_estimate_noun_3": {
+"lang": "en",
+"text": "The simple estimate of cardinality obtained using the algorithm above has the disadvantage of a large variance.",
+"word": "estimate",
+"pos": [
+11,
+19
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_estimate_noun_4": {
+"lang": "en",
+"text": "Their estimate includes victims of sexual abuse in addition to men who regularly or voluntarily have sex with men.",
+"word": "estimate",
+"pos": [
+6,
+14
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_estimate_noun_5": {
+"lang": "en",
+"text": "The government of Bavaria regards this estimate as too low, mainly because it does not include electrification.",
+"word": "estimate",
+"pos": [
+39,
+47
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_estimate_noun_6": {
+"lang": "en",
+"text": "Bent's rule provides a qualitative estimate as to how these hybridised orbitals should be constructed.",
+"word": "estimate",
+"pos": [
+35,
+43
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_estimate_noun_7": {
+"lang": "en",
+"text": "The free-fall time is a very useful estimate of the relevant timescale for a number of astrophysical processes.",
+"word": "estimate",
+"pos": [
+36,
+44
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_estimate_noun_8": {
+"lang": "en",
+"text": "The White House office said its estimate was based on sampling from high resolution satellite imagery.",
+"word": "estimate",
+"pos": [
+32,
+40
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_estimate_noun_9": {
+"lang": "en",
+"text": "Deals are reported that use the estimate of the full extent of land that the firm expects to utilise.",
+"word": "estimate",
+"pos": [
+32,
+40
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_excuse_noun_0": {
+"lang": "en",
+"text": "Ferhunde resigns with an excuse to have some rest, leaving Sevket the only person to pay the Tekins' expenses.",
+"word": "excuse",
+"pos": [
+25,
+31
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_excuse_noun_1": {
+"lang": "en",
+"text": "The problem with the latter decision was that it gave Parliament an excuse to legislate in regard to many matters.",
+"word": "excuse",
+"pos": [
+68,
+74
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_excuse_noun_2": {
+"lang": "en",
+"text": "The District of Columbia does not require an excuse for either early voting or absentee voting.",
+"word": "excuse",
+"pos": [
+45,
+51
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_excuse_noun_3": {
+"lang": "en",
+"text": "The Missionaries didn't recognize Tavita as rightful heir, on the excuse that he was not born in church wedlock.",
+"word": "excuse",
+"pos": [
+66,
+72
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_excuse_noun_4": {
+"lang": "en",
+"text": "Black Magic Woman is \"largely an excuse for soft-porn sequences between some yucky shocks\", Elley wrote.",
+"word": "excuse",
+"pos": [
+33,
+39
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_excuse_noun_5": {
+"lang": "en",
+"text": "The final excuse for the youth's infidelity is that no man can resist the advances of a woman.",
+"word": "excuse",
+"pos": [
+10,
+16
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_excuse_noun_6": {
+"lang": "en",
+"text": "Such barbarity gave the Knights an excuse not to treat the Prussians as civilized and honorable people.",
+"word": "excuse",
+"pos": [
+35,
+41
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_excuse_noun_7": {
+"lang": "en",
+"text": "The other lords in the Welsh Marches resented this seizure, feeling that the king's excuse for it was not applicable.",
+"word": "excuse",
+"pos": [
+84,
+90
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_excuse_noun_8": {
+"lang": "en",
+"text": "When Panarella's crew complained, it gave Persico an excuse to exile Panarella to Las Vegas.",
+"word": "excuse",
+"pos": [
+53,
+59
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_excuse_noun_9": {
+"lang": "en",
+"text": "Though it is not an excuse, sometimes the heightened media scrutiny has caused me to act out in public.",
+"word": "excuse",
+"pos": [
+20,
+26
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_graduate_noun_0": {
+"lang": "en",
+"text": "Graphmatica is a graphing program created by Keith Hertzer, a graduate of the University of California, Berkeley.",
+"word": "graduate",
+"pos": [
+62,
+70
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_graduate_noun_1": {
+"lang": "en",
+"text": "Another Boys High graduate remembered that \"I went to Boys High School in Brooklyn, a great school.",
+"word": "graduate",
+"pos": [
+18,
+26
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_graduate_noun_2": {
+"lang": "en",
+"text": "The graduate health course attracted considerable media attention, despite enrolling only three students.",
+"word": "graduate",
+"pos": [
+4,
+12
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_graduate_noun_3": {
+"lang": "en",
+"text": "Post Graduate Diploma in Event Management (PGDEM)The institute also provide course on wedding management, sports management.",
+"word": "graduate",
+"pos": [
+5,
+13
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_graduate_noun_4": {
+"lang": "en",
+"text": "By the time aerial activity over the North resumed, most Navy squadrons had a Topgun graduate.",
+"word": "graduate",
+"pos": [
+85,
+93
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_graduate_noun_5": {
+"lang": "en",
+"text": "In Reichenbach, it was John Hagnus, a graduate of the University of Wittenberg, the Protestant Church to enforce order.",
+"word": "graduate",
+"pos": [
+38,
+46
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_graduate_noun_6": {
+"lang": "en",
+"text": "Grandhi Venkata Reddy Naidu received his graduate B.A., and law L.L.B., degrees from University of Madras.",
+"word": "graduate",
+"pos": [
+41,
+49
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_graduate_noun_7": {
+"lang": "en",
+"text": "Professor (John) Michael Clarke is a graduate of St Chad's College, Durham University.",
+"word": "graduate",
+"pos": [
+37,
+45
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_graduate_noun_8": {
+"lang": "en",
+"text": "The spokesperson (later spokespeople) were also selected by collaboration-wide vote, including graduate students.",
+"word": "graduate",
+"pos": [
+95,
+103
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_graduate_noun_9": {
+"lang": "en",
+"text": "Graduate students spend a month training in Moscow, while the undergraduates participate in a semester-long program.",
+"word": "graduate",
+"pos": [
+0,
+8
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_house_noun_0": {
+"lang": "en",
+"text": "The Anthony House was an upscale hotel on Markham Street in downtown Little Rock, Arkansas.",
+"word": "house",
+"pos": [
+12,
+17
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_house_noun_1": {
+"lang": "en",
+"text": "When Jimmy decided to have satellite television installed at his house, Sean Smith came to install it.",
+"word": "house",
+"pos": [
+65,
+70
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_house_noun_2": {
+"lang": "en",
+"text": "Walz serves on the House Agriculture Committee, Committee on Veterans' Affairs, and the Armed Services Committee.",
+"word": "house",
+"pos": [
+19,
+24
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_house_noun_3": {
+"lang": "en",
+"text": "More recently Celtech and Taran have also combined pibgorn and pipes with Drum and Bass, Dub, and House styles.",
+"word": "house",
+"pos": [
+98,
+103
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_house_noun_4": {
+"lang": "en",
+"text": "Back To Basics is then followed by three other electro house EPs, Feedback, Back Again and Keep The Groove On.",
+"word": "house",
+"pos": [
+55,
+60
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_house_noun_5": {
+"lang": "en",
+"text": "The house itself is painted green-white and has a big garden where often are weddings or confirmation parties.",
+"word": "house",
+"pos": [
+4,
+9
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_house_noun_6": {
+"lang": "en",
+"text": "House of Moves captured the movements of five men and four women during a two-day shoot supervised by Hancock.",
+"word": "house",
+"pos": [
+0,
+5
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_house_noun_7": {
+"lang": "en",
+"text": "Today, in addition to being a historic house, The Mount is a major attraction in the Berkshires of Western Massachusetts.",
+"word": "house",
+"pos": [
+39,
+44
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_house_noun_8": {
+"lang": "en",
+"text": "The movie was screened in the White House for energy and environment staff working in the Obama Administration.",
+"word": "house",
+"pos": [
+36,
+41
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_house_noun_9": {
+"lang": "en",
+"text": "Following her criticism of his extra-marital affairs, Clarke's father turned her out of the house and cut off her funds.",
+"word": "house",
+"pos": [
+92,
+97
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_invalid_adj_0": {
+"lang": "en",
+"text": "Regarding invalid contracts, there are two subgroups to distinguish: void contracts and voidable contracts.",
+"word": "invalid",
+"pos": [
+10,
+17
+],
+"answer": "adj",
+"cands": [
+"adj",
+"noun"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_invalid_adj_1": {
+"lang": "en",
+"text": "Giving an invalid word, whether it be misspelled, not in the dictionary, or not five letters in length.",
+"word": "invalid",
+"pos": [
+10,
+17
+],
+"answer": "adj",
+"cands": [
+"adj",
+"noun"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_invalid_adj_2": {
+"lang": "en",
+"text": "Each day a new code is printed on the wristband, meaning wristbands from previous days become invalid.",
+"word": "invalid",
+"pos": [
+94,
+101
+],
+"answer": "adj",
+"cands": [
+"adj",
+"noun"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_invalid_adj_3": {
+"lang": "en",
+"text": "Red indicates invalid entries in the table since they refer to distances from a node to itself, or via itself.",
+"word": "invalid",
+"pos": [
+14,
+21
+],
+"answer": "adj",
+"cands": [
+"adj",
+"noun"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_invalid_adj_4": {
+"lang": "en",
+"text": "If the collar is not used, the vault is considered invalid and the gymnast will receive a score of zero.",
+"word": "invalid",
+"pos": [
+51,
+58
+],
+"answer": "adj",
+"cands": [
+"adj",
+"noun"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_invalid_adj_5": {
+"lang": "en",
+"text": "The trio's paper, published in American Psychologist, contended that the ratio was based on faulty mathematical reasoning and therefore invalid.",
+"word": "invalid",
+"pos": [
+136,
+143
+],
+"answer": "adj",
+"cands": [
+"adj",
+"noun"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_invalid_adj_6": {
+"lang": "en",
+"text": "Any number of logically invalid and even empirically false explanations can be maintained by deductive inference from postulates.",
+"word": "invalid",
+"pos": [
+24,
+31
+],
+"answer": "adj",
+"cands": [
+"adj",
+"noun"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_invalid_adj_7": {
+"lang": "en",
+"text": "CRC errors are detected in a cut-through switch and indicated by marking the corrupted frame EOF field as \"invalid\".",
+"word": "invalid",
+"pos": [
+107,
+114
+],
+"answer": "adj",
+"cands": [
+"adj",
+"noun"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_invalid_adj_8": {
+"lang": "en",
+"text": "It was brought into effect after the European Union's Data Retention Directive was declared invalid.",
+"word": "invalid",
+"pos": [
+92,
+99
+],
+"answer": "adj",
+"cands": [
+"adj",
+"noun"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_invalid_adj_9": {
+"lang": "en",
+"text": "The Scottish botanist Robert Brown had described it as Tecoma australis but this name was ruled invalid.",
+"word": "invalid",
+"pos": [
+96,
+103
+],
+"answer": "adj",
+"cands": [
+"adj",
+"noun"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_lead_leed_0": {
+"lang": "en",
+"text": "Many of its members (especially those in the elite Crimson Guard units) lead seemingly normal lives, supporting Cobra covertly.",
+"word": "lead",
+"pos": [
+72,
+76
+],
+"answer": "leed",
+"cands": [
+"leed",
+"led"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_lead_leed_1": {
+"lang": "en",
+"text": "The appliances learn that unless they find a replacement quickly, Wittgenstein's tube will blow and lead to his apparent death.",
+"word": "lead",
+"pos": [
+100,
+104
+],
+"answer": "leed",
+"cands": [
+"leed",
+"led"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_lead_leed_2": {
+"lang": "en",
+"text": "At first, Woody Strode was cast in the lead role but Strode changed his mind and dropped out.",
+"word": "lead",
+"pos": [
+39,
+43
+],
+"answer": "leed",
+"cands": [
+"leed",
+"led"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_lead_leed_3": {
+"lang": "en",
+"text": "Chronic stress can lead to memory loss, damage spatial recognition and produce a decreased drive of eating.",
+"word": "lead",
+"pos": [
+19,
+23
+],
+"answer": "leed",
+"cands": [
+"leed",
+"led"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_lead_leed_4": {
+"lang": "en",
+"text": "West played guitar, bass and provided lead vocals, Holmes played keyboards and bass, and Coulter played the drums.",
+"word": "lead",
+"pos": [
+38,
+42
+],
+"answer": "leed",
+"cands": [
+"leed",
+"led"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_lead_leed_5": {
+"lang": "en",
+"text": "He performed the lead role of Romeo, with British ballerina Patricia Ruanne creating the role of Juliet.",
+"word": "lead",
+"pos": [
+17,
+21
+],
+"answer": "leed",
+"cands": [
+"leed",
+"led"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_lead_leed_6": {
+"lang": "en",
+"text": "The escalating attacks lead Amazon leaders Phillipus and Artemis to question Hippolyta's motives.",
+"word": "lead",
+"pos": [
+23,
+27
+],
+"answer": "leed",
+"cands": [
+"leed",
+"led"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_lead_leed_7": {
+"lang": "en",
+"text": "The head monk should take the lead for others and be a role model in learning and practice.\"",
+"word": "lead",
+"pos": [
+30,
+34
+],
+"answer": "leed",
+"cands": [
+"leed",
+"led"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_lead_leed_8": {
+"lang": "en",
+"text": "The prosecution agreed to take the death penalty off the table if Hilton would lead investigators to her body.",
+"word": "lead",
+"pos": [
+79,
+83
+],
+"answer": "leed",
+"cands": [
+"leed",
+"led"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_lead_leed_9": {
+"lang": "en",
+"text": "They lead to a reinforcing pattern, in which industries 'tip' towards one or another product design.",
+"word": "lead",
+"pos": [
+5,
+9
+],
+"answer": "leed",
+"cands": [
+"leed",
+"led"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_live_lyve_0": {
+"lang": "en",
+"text": "It includes Norton Disk Doctor, Norton Speed Disk, Norton System Information, Norton System Doctor, Norton Protection/UnErase, Live Update.",
+"word": "live",
+"pos": [
+127,
+131
+],
+"answer": "lyve",
+"cands": [
+"liv",
+"lyve"
+],
+"minority": true,
+"hold": false,
+"src": "whd"
+},
+"en2_minute_minit_0": {
+"lang": "en",
+"text": "Cray's \"two minute portraits\" are large-scale self-portraits, inquiring into the persistence of the photographic image.",
+"word": "minute",
+"pos": [
+12,
+18
+],
+"answer": "minit",
+"cands": [
+"minit",
+"mynoot"
+],
+"minority": false,
+"hold": true,
+"src": "whd"
+},
+"en2_minute_minit_1": {
+"lang": "en",
+"text": "His counterpart, T. B. Langton noted that his crew \"had an excellent race and enjoyed every minute of it\".",
+"word": "minute",
+"pos": [
+92,
+98
+],
+"answer": "minit",
+"cands": [
+"minit",
+"mynoot"
+],
+"minority": false,
+"hold": true,
+"src": "whd"
+},
+"en2_minute_minit_2": {
+"lang": "en",
+"text": "He founded the Specials along with his brother Minute Man, the Weevil, Ms. Indestructible, and Stretchie Boy.",
+"word": "minute",
+"pos": [
+47,
+53
+],
+"answer": "minit",
+"cands": [
+"minit",
+"mynoot"
+],
+"minority": false,
+"hold": true,
+"src": "whd"
+},
+"en2_minute_minit_3": {
+"lang": "en",
+"text": "Debutant Sean Murray was sent off for a bad tackle on Jim McAlister in the fifth minute of injury time.",
+"word": "minute",
+"pos": [
+81,
+87
+],
+"answer": "minit",
+"cands": [
+"minit",
+"mynoot"
+],
+"minority": false,
+"hold": true,
+"src": "whd"
+},
+"en2_minute_minit_4": {
+"lang": "en",
+"text": "Due to the space consumed by the multiple grooves, the song itself played for only about one minute.",
+"word": "minute",
+"pos": [
+93,
+99
+],
+"answer": "minit",
+"cands": [
+"minit",
+"mynoot"
+],
+"minority": false,
+"hold": true,
+"src": "whd"
+},
+"en2_minute_minit_5": {
+"lang": "en",
+"text": "Commercial breaks occur, on average, every fifteen minutes; news reports every thirty minutes in five-minute durations.",
+"word": "minute",
+"pos": [
+102,
+108
+],
+"answer": "minit",
+"cands": [
+"minit",
+"mynoot"
+],
+"minority": false,
+"hold": true,
+"src": "whd"
+},
+"en2_minute_minit_6": {
+"lang": "en",
+"text": "From the water taxi dock, it's only a few minute taxi ride to the bus stop known as \"el cruce.\"",
+"word": "minute",
+"pos": [
+42,
+48
+],
+"answer": "minit",
+"cands": [
+"minit",
+"mynoot"
+],
+"minority": false,
+"hold": true,
+"src": "whd"
+},
+"en2_minute_minit_7": {
+"lang": "en",
+"text": "For each missed target a fixed penalty time, usually one minute, is added to the skiing time of the biathlete.",
+"word": "minute",
+"pos": [
+57,
+63
+],
+"answer": "minit",
+"cands": [
+"minit",
+"mynoot"
+],
+"minority": false,
+"hold": true,
+"src": "whd"
+},
+"en2_minute_minit_8": {
+"lang": "en",
+"text": "Originally a thirty-minute show, it was extended to forty-five minutes, then later to sixty minutes.",
+"word": "minute",
+"pos": [
+20,
+26
+],
+"answer": "minit",
+"cands": [
+"minit",
+"mynoot"
+],
+"minority": false,
+"hold": true,
+"src": "whd"
+},
+"en2_minute_minit_9": {
+"lang": "en",
+"text": "The editors dubbed it, \"Unadulterated and unabashed bubblegum pop that plays like a three-minute dose of summer.\"",
+"word": "minute",
+"pos": [
+90,
+96
+],
+"answer": "minit",
+"cands": [
+"minit",
+"mynoot"
+],
+"minority": false,
+"hold": true,
+"src": "whd"
+},
+"en2_object_noun_0": {
+"lang": "en",
+"text": "In Welsh, the negative particle ddim cannot be immediately followed by an object noun phrase, as the following examples show.",
+"word": "object",
+"pos": [
+74,
+80
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_object_noun_1": {
+"lang": "en",
+"text": "In a terminating ARS, every object has at least one normal form, thus it is normalizing.",
+"word": "object",
+"pos": [
+28,
+34
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_object_noun_2": {
+"lang": "en",
+"text": "The brothers had to agree which object was going to be transferred and which brother was going to point.",
+"word": "object",
+"pos": [
+32,
+38
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_object_noun_3": {
+"lang": "en",
+"text": "If a light is shone on a three-dimensional object, a two-dimensional shadow is cast.",
+"word": "object",
+"pos": [
+43,
+49
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_object_noun_4": {
+"lang": "en",
+"text": "Deconstruction, or parsing, refers to the opposite process of converting (deserializing) binary data into a programmatic object.",
+"word": "object",
+"pos": [
+121,
+127
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_object_noun_5": {
+"lang": "en",
+"text": "But the images of these triangles in object space may vary in shape and extension, which may be a drawback.",
+"word": "object",
+"pos": [
+37,
+43
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_object_noun_6": {
+"lang": "en",
+"text": "As a result, that particular observer will see one astronomical object in two different places in the night sky.",
+"word": "object",
+"pos": [
+64,
+70
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_object_noun_7": {
+"lang": "en",
+"text": "It is usually caused by the rapid deceleration that results when the moving chest strikes a fixed object.",
+"word": "object",
+"pos": [
+98,
+104
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_object_noun_8": {
+"lang": "en",
+"text": "It opens with Hamasaki walking into a small orange-lit room with a black object on a stall.",
+"word": "object",
+"pos": [
+73,
+79
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_object_noun_9": {
+"lang": "en",
+"text": "In this context, construction, or building, refers to the process of converting (serializing) a programmatic object into a binary representation.",
+"word": "object",
+"pos": [
+109,
+115
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_present_noun_0": {
+"lang": "en",
+"text": "This change allowed the present Queen to become heir presumptive and eventually inherit the throne.",
+"word": "present",
+"pos": [
+24,
+31
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_present_noun_1": {
+"lang": "en",
+"text": "Kosar's symptoms have included insomnia, slurred speech and a ringing in his head, some present for more than a decade.",
+"word": "present",
+"pos": [
+88,
+95
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_present_noun_2": {
+"lang": "en",
+"text": "At present, his son Sooklek and daughter Soodrak run the Prayoon Foundation to preserve their father's works.",
+"word": "present",
+"pos": [
+3,
+10
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_present_noun_3": {
+"lang": "en",
+"text": "Bezhetsky Uyezd was situated in the eastern part of the governorate (in the eastern part of the present-day Tver Oblast).",
+"word": "present",
+"pos": [
+96,
+103
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_present_noun_4": {
+"lang": "en",
+"text": "Later in the year, he was selected in the Australian Open men's team, where he remains to the present time.",
+"word": "present",
+"pos": [
+94,
+101
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_present_noun_5": {
+"lang": "en",
+"text": "These tubes are best suited to stationary equipment where impact and vibration is not present.",
+"word": "present",
+"pos": [
+86,
+93
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_present_noun_6": {
+"lang": "en",
+"text": "Brown's party eventually surveyed as far west as present-day Little Rock, while Robbins continued north to the Missouri River.",
+"word": "present",
+"pos": [
+49,
+56
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_present_noun_7": {
+"lang": "en",
+"text": "In both molybdenum porphyries and copper porphyries, the molybdenum is present as molybdenite.",
+"word": "present",
+"pos": [
+71,
+78
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_present_noun_8": {
+"lang": "en",
+"text": "Schomberg's force then went south to Dundalk Camp and were present at the Battle of the Boyne the following year.",
+"word": "present",
+"pos": [
+59,
+66
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_present_noun_9": {
+"lang": "en",
+"text": "In other words, an income in the future needs to be discounted, in some manner, to obtain its present equivalent.",
+"word": "present",
+"pos": [
+94,
+101
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_produce_verb_0": {
+"lang": "en",
+"text": "Mice that produce the soluble SCF but not transmembrane SCF suffer from anemia, are sterile, and lack pigmentation.",
+"word": "produce",
+"pos": [
+10,
+17
+],
+"answer": "verb",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_produce_verb_1": {
+"lang": "en",
+"text": "Gloster therefore embarked on a redesign programme to produce a new version of the Meteor with better performance.",
+"word": "produce",
+"pos": [
+54,
+61
+],
+"answer": "verb",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_produce_verb_2": {
+"lang": "en",
+"text": "The Mission enlisted the help of John Paul Jones to produce their second album Children, engineered by Mark 'Spike' Stent.",
+"word": "produce",
+"pos": [
+52,
+59
+],
+"answer": "verb",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_produce_verb_3": {
+"lang": "en",
+"text": "At Turner Upfront TNT has announced to produce a pilot for a US remake of the German series.",
+"word": "produce",
+"pos": [
+39,
+46
+],
+"answer": "verb",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_produce_verb_4": {
+"lang": "en",
+"text": "First, courts require that the defense produce some evidence to support an allegation of UCI.",
+"word": "produce",
+"pos": [
+39,
+46
+],
+"answer": "verb",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_produce_verb_5": {
+"lang": "en",
+"text": "Trophozoites then mature to schizonts which divide several times to produce new merozoites.",
+"word": "produce",
+"pos": [
+68,
+75
+],
+"answer": "verb",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_produce_verb_6": {
+"lang": "en",
+"text": "Pharmaceutical companies which produce antivenom target their products against the species native to a particular area.",
+"word": "produce",
+"pos": [
+31,
+38
+],
+"answer": "verb",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_produce_verb_7": {
+"lang": "en",
+"text": "The immediate interpretant is a quality of impression which a sign is fitted to produce, a special potentiality.",
+"word": "produce",
+"pos": [
+80,
+87
+],
+"answer": "verb",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_produce_verb_8": {
+"lang": "en",
+"text": "Hanhart used a complex layering of tint stones, to produce work unique in colouration and tonal values.",
+"word": "produce",
+"pos": [
+51,
+58
+],
+"answer": "verb",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_produce_verb_9": {
+"lang": "en",
+"text": "He would then expect them to produce results in a matter of weeks, with no other facilitation or investment.",
+"word": "produce",
+"pos": [
+29,
+36
+],
+"answer": "verb",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_read_reed_0": {
+"lang": "en",
+"text": "Hence, circulation numbers offer only a small glimpse into how many people actually read such publications.",
+"word": "read",
+"pos": [
+84,
+88
+],
+"answer": "reed",
+"cands": [
+"reed",
+"red"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_read_reed_1": {
+"lang": "en",
+"text": "This failed to work, with Readers refusing to read, and the old system of legal education completely died out.",
+"word": "read",
+"pos": [
+46,
+50
+],
+"answer": "reed",
+"cands": [
+"reed",
+"red"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_read_reed_2": {
+"lang": "en",
+"text": "The young Armine, then sixteen years old, asked London to read some of her stories and give his opinion.",
+"word": "read",
+"pos": [
+58,
+62
+],
+"answer": "reed",
+"cands": [
+"reed",
+"red"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_read_reed_3": {
+"lang": "en",
+"text": "Not all email applications or services support read receipts, and users can generally disable the functionality if they so wish.",
+"word": "read",
+"pos": [
+47,
+51
+],
+"answer": "reed",
+"cands": [
+"reed",
+"red"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_read_reed_4": {
+"lang": "en",
+"text": "TPMmuckraker has attempted to organize its readers to plow through and read document dumps by governmental entities engaging in cover-ups.",
+"word": "read",
+"pos": [
+71,
+75
+],
+"answer": "reed",
+"cands": [
+"reed",
+"red"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_read_reed_5": {
+"lang": "en",
+"text": "Time magazine's Richard Schickel wrote, \"In Fletch, the quick, smartly paced, gags somehow read as signs of vulnerability.",
+"word": "read",
+"pos": [
+91,
+95
+],
+"answer": "reed",
+"cands": [
+"reed",
+"red"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_read_reed_6": {
+"lang": "en",
+"text": "We accomplish this by storing most of what we read in long-term memory, linking them together through retrieval structures.",
+"word": "read",
+"pos": [
+46,
+50
+],
+"answer": "reed",
+"cands": [
+"reed",
+"red"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_read_reed_7": {
+"lang": "en",
+"text": "Current DNA sequencing technologies, including NGS, are limited on the basis that genomes are much larger than any read length.",
+"word": "read",
+"pos": [
+115,
+119
+],
+"answer": "reed",
+"cands": [
+"reed",
+"red"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_read_reed_8": {
+"lang": "en",
+"text": "At Monica's behest she also calls Christopher to tell him not to read the suicide note Monica has sent him.",
+"word": "read",
+"pos": [
+65,
+69
+],
+"answer": "reed",
+"cands": [
+"reed",
+"red"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_read_reed_9": {
+"lang": "en",
+"text": "The nominated books are then given to jury members who can read both official languages for equal consideration.",
+"word": "read",
+"pos": [
+59,
+63
+],
+"answer": "reed",
+"cands": [
+"reed",
+"red"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_record_noun_0": {
+"lang": "en",
+"text": "The album is his first release on Blue Swan Records since departing with his previous record label Equal Vision Records.",
+"word": "record",
+"pos": [
+86,
+92
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_record_noun_1": {
+"lang": "en",
+"text": "The fastest lap time gets captured for the record book just like in the other modes of the game.",
+"word": "record",
+"pos": [
+43,
+49
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_record_noun_2": {
+"lang": "en",
+"text": "Six thousand fans were at the Riverside, a record which is still held today for an away support at Middlesbrough.",
+"word": "record",
+"pos": [
+43,
+49
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_record_noun_3": {
+"lang": "en",
+"text": "He also enlisted record producer Ed Freeman who had produced Don McLean's best selling album American Pie the previous year.",
+"word": "record",
+"pos": [
+17,
+23
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_record_noun_4": {
+"lang": "en",
+"text": "Scott Yanow of Allmusic stated, \"Sonny Stitt and Red Holloway make a perfect team on this exciting jam session record.",
+"word": "record",
+"pos": [
+111,
+117
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_record_noun_5": {
+"lang": "en",
+"text": "Since the release of his mixtape, the record has been downloaded over one million times.",
+"word": "record",
+"pos": [
+38,
+44
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_record_noun_6": {
+"lang": "en",
+"text": "The hospital's archives, including early patient admission papers, are held at West Sussex Record Office in Chichester.",
+"word": "record",
+"pos": [
+91,
+97
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_record_noun_7": {
+"lang": "en",
+"text": "If two players had an identical record then the result in their match determined their positions.",
+"word": "record",
+"pos": [
+32,
+38
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_record_noun_8": {
+"lang": "en",
+"text": "The single was released on limited edition vinyl and as a digital download on London based independent record label 'Tape'.",
+"word": "record",
+"pos": [
+103,
+109
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_record_noun_9": {
+"lang": "en",
+"text": "The film performed exceptionally well overseas, collecting record figures unheard of for a heroine-oriented film.",
+"word": "record",
+"pos": [
+59,
+65
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_refuse_verb_0": {
+"lang": "en",
+"text": "Frightened, Rebecca repeatedly asks Noah about the mark, only for him to refuse to answer her.",
+"word": "refuse",
+"pos": [
+73,
+79
+],
+"answer": "verb",
+"cands": [
+"verb",
+"noun"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_refuse_verb_1": {
+"lang": "en",
+"text": "He was one of the few Imperial princes to refuse a military commission, remaining a civilian all his life.",
+"word": "refuse",
+"pos": [
+42,
+48
+],
+"answer": "verb",
+"cands": [
+"verb",
+"noun"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_refuse_verb_2": {
+"lang": "en",
+"text": "The creditors gather together and go to Jack's office to demand repayment and refuse to leave until they are paid.",
+"word": "refuse",
+"pos": [
+78,
+84
+],
+"answer": "verb",
+"cands": [
+"verb",
+"noun"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_refuse_verb_3": {
+"lang": "en",
+"text": "The University of Oxford extends no official recognition to the club, and many local restaurants refuse to host its events.",
+"word": "refuse",
+"pos": [
+97,
+103
+],
+"answer": "verb",
+"cands": [
+"verb",
+"noun"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_refuse_verb_4": {
+"lang": "en",
+"text": "Sinn Féin, as an Irish republican party, refuse to take their seats at Westminster (see abstentionism).",
+"word": "refuse",
+"pos": [
+42,
+48
+],
+"answer": "verb",
+"cands": [
+"verb",
+"noun"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_refuse_verb_5": {
+"lang": "en",
+"text": "The lyrics of \"Refuse/Resist\" mention \"tanks on the streets, confronting police, bleeding the plebs.\"",
+"word": "refuse",
+"pos": [
+15,
+21
+],
+"answer": "verb",
+"cands": [
+"verb",
+"noun"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_refuse_verb_6": {
+"lang": "en",
+"text": "Hypoglycemic cats that refuse to eat can be force-fed honey or corn syrup until they stabilize.",
+"word": "refuse",
+"pos": [
+23,
+29
+],
+"answer": "verb",
+"cands": [
+"verb",
+"noun"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_refuse_verb_7": {
+"lang": "en",
+"text": "Many believe they have been fundamentally contaminated for life and may refuse to have children for fear of birth defects.",
+"word": "refuse",
+"pos": [
+72,
+78
+],
+"answer": "verb",
+"cands": [
+"verb",
+"noun"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_refuse_verb_8": {
+"lang": "en",
+"text": "The current administration of Celtic's female section pointedly refuse to describe themselves as \"Celtic Ladies\" or \"Celtic Women\".",
+"word": "refuse",
+"pos": [
+64,
+70
+],
+"answer": "verb",
+"cands": [
+"verb",
+"noun"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_refuse_verb_9": {
+"lang": "en",
+"text": "However, they refuse to serve light beer, deigning that as \"unfit for human consumption.\"",
+"word": "refuse",
+"pos": [
+14,
+20
+],
+"answer": "verb",
+"cands": [
+"verb",
+"noun"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_resume_verb_0": {
+"lang": "en",
+"text": "Despite Laura's efforts to abandon her former ways, the two resume their squabble, and Tracy again, with finality, drops dead.",
+"word": "resume",
+"pos": [
+60,
+66
+],
+"answer": "verb",
+"cands": [
+"verb",
+"noun"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_resume_verb_1": {
+"lang": "en",
+"text": "Patton shoots at him; the horse is killed and Jim is injured but manages to recover and resume the pursuit.",
+"word": "resume",
+"pos": [
+88,
+94
+],
+"answer": "verb",
+"cands": [
+"verb",
+"noun"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_resume_verb_2": {
+"lang": "en",
+"text": "Both would take time away to work on other projects, and resume work on the album fresh.",
+"word": "resume",
+"pos": [
+57,
+63
+],
+"answer": "verb",
+"cands": [
+"verb",
+"noun"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_resume_verb_3": {
+"lang": "en",
+"text": "That night, Duncan tells Jessica that she needs to return to New York to resume her psychiatric treatment.",
+"word": "resume",
+"pos": [
+73,
+79
+],
+"answer": "verb",
+"cands": [
+"verb",
+"noun"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_resume_verb_4": {
+"lang": "en",
+"text": "Despite positive reports from the pilots, and a proposal by Fiat to resume production, no further aircraft were produced.",
+"word": "resume",
+"pos": [
+68,
+74
+],
+"answer": "verb",
+"cands": [
+"verb",
+"noun"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_resume_verb_5": {
+"lang": "en",
+"text": "They decide to remain behind to resume their lives without disruption as the Doctor and Jamie travel on.",
+"word": "resume",
+"pos": [
+32,
+38
+],
+"answer": "verb",
+"cands": [
+"verb",
+"noun"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_resume_verb_6": {
+"lang": "en",
+"text": "Countries like Germany permit the staying in a vehicle as long as the driver can resume driving when necessary.",
+"word": "resume",
+"pos": [
+81,
+87
+],
+"answer": "verb",
+"cands": [
+"verb",
+"noun"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_resume_verb_7": {
+"lang": "en",
+"text": "Last instar larvae leave the tube and resume feeding on the terminal leaf or shoot, again forming a tube.",
+"word": "resume",
+"pos": [
+38,
+44
+],
+"answer": "verb",
+"cands": [
+"verb",
+"noun"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_resume_verb_8": {
+"lang": "en",
+"text": "The brushes immediately resume their descent, and the cycle is repeated until each canvas is covered in paint.",
+"word": "resume",
+"pos": [
+24,
+30
+],
+"answer": "verb",
+"cands": [
+"verb",
+"noun"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_resume_verb_9": {
+"lang": "en",
+"text": "The routes follow Intervale Road briefly before making a left turn to resume onto Parsippany Boulevard.",
+"word": "resume",
+"pos": [
+70,
+76
+],
+"answer": "verb",
+"cands": [
+"verb",
+"noun"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_row_roe_0": {
+"lang": "en",
+"text": "In the team event Italy maintained their domination, earning their third gold medal in a row.",
+"word": "row",
+"pos": [
+89,
+92
+],
+"answer": "roe",
+"cands": [
+"roe",
+"rau"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_row_roe_1": {
+"lang": "en",
+"text": "Full wagonloads continued to be dealt with at smaller stations such as Forest Row, Rowfant and Grange Road.",
+"word": "row",
+"pos": [
+78,
+81
+],
+"answer": "roe",
+"cands": [
+"roe",
+"rau"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_row_roe_2": {
+"lang": "en",
+"text": "Fox was named \"Best Pittsburgh Newscaster\" seven years in a row by the Pittsburgh Tribune Review.",
+"word": "row",
+"pos": [
+60,
+63
+],
+"answer": "roe",
+"cands": [
+"roe",
+"rau"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_row_roe_3": {
+"lang": "en",
+"text": "Gonzalez won eight more fights in a row before being given another chance at becoming world Flyweight champion.",
+"word": "row",
+"pos": [
+36,
+39
+],
+"answer": "roe",
+"cands": [
+"roe",
+"rau"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_row_roe_4": {
+"lang": "en",
+"text": "However, row crops such as wheat, sorghum, sunflowers and soy beans are important also.",
+"word": "row",
+"pos": [
+9,
+12
+],
+"answer": "roe",
+"cands": [
+"roe",
+"rau"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_row_roe_5": {
+"lang": "en",
+"text": "Each can be taken as a multiplication table with border row \"ab\" or \"ba\" and border column \"ab\" or \"ba\".",
+"word": "row",
+"pos": [
+56,
+59
+],
+"answer": "roe",
+"cands": [
+"roe",
+"rau"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_row_roe_6": {
+"lang": "en",
+"text": "Cork won on that occasion making it five-in-a-row of Munster titles, however, McCarthy never came off the bench.",
+"word": "row",
+"pos": [
+46,
+49
+],
+"answer": "roe",
+"cands": [
+"roe",
+"rau"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_row_roe_7": {
+"lang": "en",
+"text": "Construction got under way again and six rows of tents, approximately seven tents in each row, were set up.",
+"word": "row",
+"pos": [
+90,
+93
+],
+"answer": "roe",
+"cands": [
+"roe",
+"rau"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_row_roe_8": {
+"lang": "en",
+"text": "The last track is a previously unreleased track from both Death Row artists Petey Pablo and Kurupt.",
+"word": "row",
+"pos": [
+64,
+67
+],
+"answer": "roe",
+"cands": [
+"roe",
+"rau"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_row_roe_9": {
+"lang": "en",
+"text": "His father's brother Robert Jameson, was also a physician and lived with them on Rotten Row.",
+"word": "row",
+"pos": [
+88,
+91
+],
+"answer": "roe",
+"cands": [
+"roe",
+"rau"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_separate_adj_0": {
+"lang": "en",
+"text": "The purpose of a separate court is that its purpose is socio-legal reformation but not punishment.",
+"word": "separate",
+"pos": [
+17,
+25
+],
+"answer": "adj",
+"cands": [
+"adj",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_separate_adj_1": {
+"lang": "en",
+"text": "Jamia Nadwiyya is a residential campus having separate hostel facility for both boys and girls.",
+"word": "separate",
+"pos": [
+46,
+54
+],
+"answer": "adj",
+"cands": [
+"adj",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_separate_adj_2": {
+"lang": "en",
+"text": "Through the early years of GAA in Drom and Inch, at times each side of the parish fielded separate teams.",
+"word": "separate",
+"pos": [
+90,
+98
+],
+"answer": "adj",
+"cands": [
+"adj",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_separate_adj_3": {
+"lang": "en",
+"text": "The club was part of the separate football competition that emerged in Soviet-occupied East Germany.",
+"word": "separate",
+"pos": [
+25,
+33
+],
+"answer": "adj",
+"cands": [
+"adj",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_separate_adj_4": {
+"lang": "en",
+"text": "Ambushed and aggressively attacked, these two companies were also pinned down in separate enclaves by the early afternoon.",
+"word": "separate",
+"pos": [
+81,
+89
+],
+"answer": "adj",
+"cands": [
+"adj",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_separate_adj_5": {
+"lang": "en",
+"text": "They have been classified as a separate phylum, Pogonophora, or as two phyla, Pogonophora and Vestimentifera.",
+"word": "separate",
+"pos": [
+31,
+39
+],
+"answer": "adj",
+"cands": [
+"adj",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_separate_adj_6": {
+"lang": "en",
+"text": "This has already yielded separate, complementary standards for symmetric multiprocessing, namely OpenMP.",
+"word": "separate",
+"pos": [
+25,
+33
+],
+"answer": "adj",
+"cands": [
+"adj",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_separate_adj_7": {
+"lang": "en",
+"text": "Harbor security was maintained by a completely separate command chain and did not operationally involve the port commander.",
+"word": "separate",
+"pos": [
+47,
+55
+],
+"answer": "adj",
+"cands": [
+"adj",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_separate_adj_8": {
+"lang": "en",
+"text": "It is famous for its Italian Romanesque Revival architecture with a separate campanile (bell tower) and for its scenic location.",
+"word": "separate",
+"pos": [
+68,
+76
+],
+"answer": "adj",
+"cands": [
+"adj",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_separate_adj_9": {
+"lang": "en",
+"text": "Modern molecular evidence supports the recognition of Phaeonematoloma as an independent genus separate from Hypholoma and Pholiota.",
+"word": "separate",
+"pos": [
+94,
+102
+],
+"answer": "adj",
+"cands": [
+"adj",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_sow_so_0": {
+"lang": "en",
+"text": "Jia Xu suggested that Cao Cao pretend to agree to their terms, and then try to sow discord among them.",
+"word": "sow",
+"pos": [
+79,
+82
+],
+"answer": "so",
+"cands": [
+"so",
+"sau"
+],
+"minority": false,
+"hold": true,
+"src": "whd"
+},
+"en2_sow_so_1": {
+"lang": "en",
+"text": "Chaos exists only to persist and spread, the Dark Gods delighting only in the destruction and disorder they sow.",
+"word": "sow",
+"pos": [
+108,
+111
+],
+"answer": "so",
+"cands": [
+"so",
+"sau"
+],
+"minority": false,
+"hold": true,
+"src": "whd"
+},
+"en2_sow_so_2": {
+"lang": "en",
+"text": "Peasants have long-term tenure as long as they sow the land, but they cannot mortgage or sell the use rights.",
+"word": "sow",
+"pos": [
+47,
+50
+],
+"answer": "so",
+"cands": [
+"so",
+"sau"
+],
+"minority": false,
+"hold": true,
+"src": "whd"
+},
+"en2_sow_so_3": {
+"lang": "en",
+"text": "LDI admits that part of the goal of this project is to sow discord and strife within abortion facilities.",
+"word": "sow",
+"pos": [
+55,
+58
+],
+"answer": "so",
+"cands": [
+"so",
+"sau"
+],
+"minority": false,
+"hold": true,
+"src": "whd"
+},
+"en2_sow_so_4": {
+"lang": "en",
+"text": "Known only to each other, the fascists coordinate to sow distrust and install their cold-blooded leader.",
+"word": "sow",
+"pos": [
+53,
+56
+],
+"answer": "so",
+"cands": [
+"so",
+"sau"
+],
+"minority": false,
+"hold": true,
+"src": "whd"
+},
+"en2_sow_so_5": {
+"lang": "en",
+"text": "Allen swapped dogtags with Hobie's body to sow confusion during his escape of the burning helicopter wreckage.",
+"word": "sow",
+"pos": [
+43,
+46
+],
+"answer": "so",
+"cands": [
+"so",
+"sau"
+],
+"minority": false,
+"hold": true,
+"src": "whd"
+},
+"en2_sow_so_6": {
+"lang": "en",
+"text": "Reincarnation exists and karma (\"You reap what you sow\") is the explanation for various injustices.",
+"word": "sow",
+"pos": [
+51,
+54
+],
+"answer": "so",
+"cands": [
+"so",
+"sau"
+],
+"minority": false,
+"hold": true,
+"src": "whd"
+},
+"en2_sow_so_7": {
+"lang": "en",
+"text": "His first invention was a drill-plough to sow wheat and turnip seed in drills, three rows at a time.",
+"word": "sow",
+"pos": [
+42,
+45
+],
+"answer": "so",
+"cands": [
+"so",
+"sau"
+],
+"minority": false,
+"hold": true,
+"src": "whd"
+},
+"en2_sow_so_8": {
+"lang": "en",
+"text": "Sayce wrote how Rickly managed to sow together the collection's \"various threads with real passion and intensity.\"",
+"word": "sow",
+"pos": [
+34,
+37
+],
+"answer": "so",
+"cands": [
+"so",
+"sau"
+],
+"minority": false,
+"hold": true,
+"src": "whd"
+},
+"en2_sow_so_9": {
+"lang": "en",
+"text": "Himmler narrowly convinces Hitler it was all merely an attempt to sow distrust between the Allies.",
+"word": "sow",
+"pos": [
+66,
+69
+],
+"answer": "so",
+"cands": [
+"so",
+"sau"
+],
+"minority": false,
+"hold": true,
+"src": "whd"
+},
+"en2_tear_tare_0": {
+"lang": "en",
+"text": "As the continent proceeds to tear itself apart, the people of Atlantis panic, striving without success to escape their doom.",
+"word": "tear",
+"pos": [
+29,
+33
+],
+"answer": "tare",
+"cands": [
+"teer",
+"tare"
+],
+"minority": true,
+"hold": false,
+"src": "whd"
+},
+"en2_tear_tare_1": {
+"lang": "en",
+"text": "In the dead-center of the continent lies \"The Chaos,\" which was a tear in the fabric of the prime-material plane.",
+"word": "tear",
+"pos": [
+66,
+70
+],
+"answer": "tare",
+"cands": [
+"teer",
+"tare"
+],
+"minority": true,
+"hold": false,
+"src": "whd"
+},
+"en2_tear_tare_2": {
+"lang": "en",
+"text": "Edwards and Kyle Busch removed tear-offs from their windshields and were required to go to the back of the field.",
+"word": "tear",
+"pos": [
+31,
+35
+],
+"answer": "tare",
+"cands": [
+"teer",
+"tare"
+],
+"minority": true,
+"hold": false,
+"src": "whd"
+},
+"en2_tear_tare_3": {
+"lang": "en",
+"text": "Dryden and Lee make their Oedipus tear out his eyes as well, but unlike Sophocles' Oedipus, he commits suicide.",
+"word": "tear",
+"pos": [
+34,
+38
+],
+"answer": "tare",
+"cands": [
+"teer",
+"tare"
+],
+"minority": true,
+"hold": false,
+"src": "whd"
+},
+"en2_tear_tare_4": {
+"lang": "en",
+"text": "Taylor's show-stopping performance of the INXS song \"Never Tear Us Apart\" was considered by many to be his finest moment.",
+"word": "tear",
+"pos": [
+59,
+63
+],
+"answer": "tare",
+"cands": [
+"teer",
+"tare"
+],
+"minority": true,
+"hold": false,
+"src": "whd"
+},
+"en2_use_verb_0": {
+"lang": "en",
+"text": "Anti-Christian and anti-Jewish passages remained in grade school textbooks that use rhetoric that were little more than hate literature.",
+"word": "use",
+"pos": [
+80,
+83
+],
+"answer": "verb",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_use_verb_1": {
+"lang": "en",
+"text": "Many modern offset presses use computer-to-plate systems as opposed to the older computer-to-film work flows, which further increases their quality.",
+"word": "use",
+"pos": [
+27,
+30
+],
+"answer": "verb",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_use_verb_2": {
+"lang": "en",
+"text": "These regional accounts use a common unit of measurement, which allows comparisons to be made between different natural capital assets.",
+"word": "use",
+"pos": [
+24,
+27
+],
+"answer": "verb",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_wind_noun_0": {
+"lang": "en",
+"text": "The four kinds of severe weather produced in these outbreaks are tornadoes, severe wind, large hail, and flash flooding.",
+"word": "wind",
+"pos": [
+83,
+87
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_wind_noun_1": {
+"lang": "en",
+"text": "It easily becomes naturalized where it is introduced because its seeds are prolifically produced and widely scattered by the wind.",
+"word": "wind",
+"pos": [
+125,
+129
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_wind_noun_2": {
+"lang": "en",
+"text": "Wind and Rain are represented by images of their associated gods, Ehecatl and Tlaloc (respectively).",
+"word": "wind",
+"pos": [
+0,
+4
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_wind_noun_3": {
+"lang": "en",
+"text": "With the production of new types of energy, including solar, geothermal, hydro-electric, biofuel, and wind power.",
+"word": "wind",
+"pos": [
+102,
+106
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_wind_noun_4": {
+"lang": "en",
+"text": "The Natural Resources Defense Council (NRDC) argues that government incentives should be directed more towards solar, wind, and energy-efficiency efforts.",
+"word": "wind",
+"pos": [
+118,
+122
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_wind_noun_5": {
+"lang": "en",
+"text": "He introduced the concept of boundary layer and founded mathematical aerodynamics by calculating air flow in the down wind direction.",
+"word": "wind",
+"pos": [
+118,
+122
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_wind_noun_6": {
+"lang": "en",
+"text": "Locally we want more wind farms and public services; and no more housing developments, roads, warehouses or nuclear waste.\"",
+"word": "wind",
+"pos": [
+21,
+25
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_wind_noun_7": {
+"lang": "en",
+"text": "By that day, the system had persistent convection around a weak circulation, located in an area of low wind shear.",
+"word": "wind",
+"pos": [
+103,
+107
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_wind_noun_8": {
+"lang": "en",
+"text": "In parts of Antarctica wind-blown snowflakes that are technically sediments have also caused abrasion of exposed rocks.",
+"word": "wind",
+"pos": [
+23,
+27
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_wind_noun_9": {
+"lang": "en",
+"text": "Doppler lidars are usually pointed to zenith and provide vertically-resolved profiles of the vertical wind component.",
+"word": "wind",
+"pos": [
+102,
+106
+],
+"answer": "noun",
+"cands": [
+"noun",
+"verb"
+],
+"minority": false,
+"hold": false,
+"src": "whd"
+},
+"en2_wound_woond_0": {
+"lang": "en",
+"text": "Mickey survives, but unfortunately, the hit from the alcohol bottle and a deep stab wound ends Maggie's life.",
+"word": "wound",
+"pos": [
+84,
+89
+],
+"answer": "woond",
+"cands": [
+"woond",
+"wownd"
+],
+"minority": false,
+"hold": true,
+"src": "whd"
+},
+"en2_wound_woond_1": {
+"lang": "en",
+"text": "The skull's owner had been wounded over his left eye and the wound had partially healed before death.",
+"word": "wound",
+"pos": [
+61,
+66
+],
+"answer": "woond",
+"cands": [
+"woond",
+"wownd"
+],
+"minority": false,
+"hold": true,
+"src": "whd"
+},
+"en2_wound_woond_2": {
+"lang": "en",
+"text": "This means that additional drugs and procedures (including wound suturing) can be accomplished by an appropriately trained EMT-III.",
+"word": "wound",
+"pos": [
+59,
+64
+],
+"answer": "woond",
+"cands": [
+"woond",
+"wownd"
+],
+"minority": false,
+"hold": true,
+"src": "whd"
+},
+"en2_wound_woond_3": {
+"lang": "en",
+"text": "His doctors commented in their report on how clean Marvin's head wound was, given the circumstances.",
+"word": "wound",
+"pos": [
+65,
+70
+],
+"answer": "woond",
+"cands": [
+"woond",
+"wownd"
+],
+"minority": false,
+"hold": true,
+"src": "whd"
+},
+"en2_wound_woond_4": {
+"lang": "en",
+"text": "These include poor wound care, an elderly, diabetic or immune-compromised patient or a virulent or antibiotic resistant pathogen.",
+"word": "wound",
+"pos": [
+19,
+24
+],
+"answer": "woond",
+"cands": [
+"woond",
+"wownd"
+],
+"minority": false,
+"hold": true,
+"src": "whd"
+},
+"en2_wound_woond_5": {
+"lang": "en",
+"text": "At that time, Arjuna, under the direction of Krishna, shoots many arrows at Karnan that severely wound him.",
+"word": "wound",
+"pos": [
+97,
+102
+],
+"answer": "woond",
+"cands": [
+"woond",
+"wownd"
+],
+"minority": false,
+"hold": true,
+"src": "whd"
+},
+"en2_wound_woond_6": {
+"lang": "en",
+"text": "This severe infection may occur regardless of whether the infection began from contaminated food or an open wound.",
+"word": "wound",
+"pos": [
+108,
+113
+],
+"answer": "woond",
+"cands": [
+"woond",
+"wownd"
+],
+"minority": false,
+"hold": true,
+"src": "whd"
+},
+"en2_wound_woond_7": {
+"lang": "en",
+"text": "His escort hurriedly entered the room and found him bleeding from a wound to the right side of his head.",
+"word": "wound",
+"pos": [
+68,
+73
+],
+"answer": "woond",
+"cands": [
+"woond",
+"wownd"
+],
+"minority": false,
+"hold": true,
+"src": "whd"
+},
+"en2_wound_woond_8": {
+"lang": "en",
+"text": "Frank's gunshot wound to the abdomen had never healed properly and would occasionally re-open and bleed.",
+"word": "wound",
+"pos": [
+16,
+21
+],
+"answer": "woond",
+"cands": [
+"woond",
+"wownd"
+],
+"minority": false,
+"hold": true,
+"src": "whd"
+},
+"en2_wound_woond_9": {
+"lang": "en",
+"text": "Outbreaks of S. marcescens meningitis, wound infections, and arthritis have occurred in pediatric wards.",
+"word": "wound",
+"pos": [
+39,
+44
+],
+"answer": "woond",
+"cands": [
+"woond",
+"wownd"
+],
+"minority": false,
+"hold": true,
+"src": "whd"
+}
+}
+}

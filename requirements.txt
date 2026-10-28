@@ -1,0 +1,9 @@
+torch
+torchaudio
+transformers>=4.40
+huggingface_hub
+numpy
+soundfile
+librosa
+phonemizer
+espeakng-loader

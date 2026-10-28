@@ -1,0 +1,10 @@
+The benchmark data in data/ and validation/ is licensed under the
+Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0):
+https://creativecommons.org/licenses/by-sa/4.0/legalcode
+
+Third-party sources included in the data:
+- Wikipedia Homograph Data (Google Research), sentences from Wikipedia — CC BY-SA 3.0.
+  https://github.com/google-research-datasets/WikipediaHomographData
+- Aozora Bunko (青空文庫) furigana-annotated texts — public-domain works.
+
+The code (eval_enja.py, judge/) is licensed under the Apache License 2.0 (see LICENSE).
